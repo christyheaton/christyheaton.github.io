@@ -14,6 +14,6 @@ I'm a **GIS** analyst, faculty lecturer at the University of Washington, and pro
 ### Say hello
 
 * Email: [christyheaton@gmail.com](mailto:christyheaton@gmail.com)
-* Github: [mapsam](http://github.com/christyheaton)
+* Github: [christyheaton](http://github.com/christyheaton)
 * Twitter: [christytoes](http://twitter.com/christytoes)
 * LinkedIn: [christyheaton](https://www.linkedin.com/in/christyheaton)
