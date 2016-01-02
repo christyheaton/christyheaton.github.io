@@ -5,11 +5,11 @@ permalink: /
 layout: default
 ---
 
-Hi, I'm **Christy**.
+Hi, I'm **Christy**. Here I am on a mountain.
 
 ![christy](/images/Heaton.jpg)
 
-I'm a **GIS** analyst, faculty lecturer at the University of Washington, and proud member of CUGOS. I also help organize the Seattle chapter of Maptime.
+I'm a **GIS** analyst, faculty lecturer at the (University of Washington)[http://www.gisonline.uw.edu/], and proud member of [CUGOS](cugos.org). I also help organize the (Seattle chapter of Maptime)[http://maptimesea.github.io/]. I'm into Python programming, open source software, and teaching.
 
 ### Say hello
 
