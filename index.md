@@ -5,7 +5,7 @@ permalink: /
 layout: default
 ---
 
-Hi, I'm **Christy**. Here I am on a mountain.
+Hi, I'm **Christy**.
 
 ![christy](/images/Heaton.jpg)
 
