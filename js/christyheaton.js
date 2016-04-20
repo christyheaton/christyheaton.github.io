@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  console.info('WELCOME TO MAPSAM! :)');
+  console.info('WELCOME TO Christy! :)');
 
   var tooltip = null;
   $('.project').on('mouseover', function(){
