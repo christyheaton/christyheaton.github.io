@@ -1,0 +1,12 @@
+---
+layout: default
+title: Projects
+weight: 3
+permalink: /projects/
+---
+
+<div class="projects cf">
+  {% for project in site.data.projects %}
+    <a href="{{ project.url }}" target="_blank" class="project" data-title="{{ project.name }}" style="{% if project.image %}background-image:url({{ project.image }});{% endif %}{% if project.color %}background-color:{{ project.color }};{% endif %}"></a>
+  {% endfor %}
+</div>
