@@ -1,0 +1,16 @@
+---
+theme:
+  - MaptimeSEA-Tuts
+---
+
+{% include header.html %}
+
+{{ content }}
+
+<ul id="tut-list">
+{% for post in site.posts %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> {{ post.date | date_to_string }}</li>
+{% endfor %}
+</ul>
+
+{% include footer.html %}
