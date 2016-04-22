@@ -1,0 +1,23 @@
+<nav class="cf">
+	<ul class="nav-left">
+	{% for weight in (1..10) %}
+	  {% for p in site.pages %}
+	    {% if p.weight == weight %}
+	      <li>
+	        <a {% if p.url == page.url %}class="current"{% endif %} {% if page.date %}{% if p.title == 'Writing' %}class="current"{% endif %}{% endif %} href="{{ p.url }}">
+	          {{ p.title }}
+	        </a>
+	      </li>
+	    {% endif %}
+	  {% endfor %}
+	{% endfor %}
+	</ul>
+
+	<ul class="nav-right">
+		<li><a href="https://www.github.com/christyheaton">github</a></li>
+  	<li><a href="https://www.twitter.com/christytoes">@vancematthews</a></li>
+	</ul>
+</nav>
+<ul class="connect">
+
+</ul>
