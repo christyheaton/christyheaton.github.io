@@ -1,5 +1,5 @@
 ---
-title: christyheaton
+title: christy
 weight: 1
 permalink: /
 layout: default
