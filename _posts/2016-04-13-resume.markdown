@@ -1,0 +1,6 @@
+---
+layout: tut
+title: "Resume"
+---
+
+Resume coming soon
