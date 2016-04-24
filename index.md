@@ -18,4 +18,4 @@ I'm a **GIS** analyst at [SGSI](http://www.sgsi.com), faculty lecturer at the [U
 * Twitter: [christytoes](http://twitter.com/christytoes)
 * LinkedIn: [christyheaton](https://www.linkedin.com/in/christyheaton)
 
-[Resume](/resume/)
+[Resume](/images/Christy_Heaton_Resume_Jan2016.pdf)
