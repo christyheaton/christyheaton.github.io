@@ -15,7 +15,6 @@ I'm a **GIS** analyst at [SGSI](http://www.sgsi.com), faculty lecturer at the [U
 
 * Email: [christyheaton@gmail.com](mailto:christyheaton@gmail.com)
 * Github: [christyheaton](http://github.com/christyheaton)
-* Twitter: [christytoes](http://twitter.com/christytoes)
+* Twitter: [@christytoes](http://twitter.com/christytoes)
 * LinkedIn: [christyheaton](https://www.linkedin.com/in/christyheaton)
-
-[Resume](/images/Christy_Heaton_Resume_Jan2016.pdf)
+* [My Resume](/images/Christy_Heaton_Resume_Jan2016.pdf)
