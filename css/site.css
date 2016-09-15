@@ -6,7 +6,7 @@ body {
   color:#555;
 }
 nav {
-  position:fixed;
+  position: fixed;
   left:0; top:0;
   height:auto;
   width:100%;
@@ -14,12 +14,20 @@ nav {
   z-index: 100;
 }
 nav a {
-  float:left;
+  display:inline;
   color:steelblue;
   text-transform:uppercase;
   font-weight:100;
   font-size:.8em;
   padding:.6em 1.3em;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: inline-block;
+}
+nav li {
+  display: inline-block;
 }
 nav a#home {
   background-color:#333;
@@ -34,6 +42,12 @@ nav a:hover {
   color:#111111;
   border:none;
 }
+
+#social {
+  float: right;
+  display:inline-block;
+}
+
 #tutorial-nav {
   margin:0;padding:0;
   float:left;
@@ -82,7 +96,7 @@ blockquote {
 }
 img {
   display:block;
-  margin:auto; 
+  margin:auto;
   width:100%;
 }
 p code,
