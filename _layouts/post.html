@@ -6,10 +6,4 @@ layout: default
 <p class="date">{{ page.date | date: '%B %d, %Y' }}</p>
 {{ content }}
 
-<ul id="tut-list">
-{% for post in site.posts %}
-  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  {{ post.date | date_to_string }}</li>
-{% endfor %}
-</ul>
-
 <a class="mono" href="/posts">&lBarr; back to posts</a>
