@@ -1,379 +1,43 @@
----
----
-
-$font-main: 'Arvo', serif;
-$font-sub: 'Source Code Pro', Menlo, Consolas, Monaco, monospace;
-
-$max-width: 55em;
-$read-width: 650px;
-
-$main-color: #da8c83;
-$dark-grey: #333;
-$light-grey: #f6f6f6;
-$grey: #c0c0c0;
-
-$code: #888;
-
-/*
-** GLOBALS
-*/
-* {
-  -webkit-box-sizing:border-box; 
-     -moz-box-sizing:border-box; 
-          box-sizing:border-box;
-}
-
 body {
-	font-family: $font-main;
-	max-width: $max-width;
-	margin:1em auto;
-	padding:0 2em;
-	line-height: 1.5em;
-	overflow-x:hidden;
+    margin: 60px auto;
+    width: 70%;
 }
-
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 p {
-	color: $dark-grey;
-}
-
-a {	
-	text-decoration:none;
-	color: $main-color;
-}
-
-article {
-
-  position: relative;
-  
-  > p, > blockquote {
-    max-width: $read-width;
-    img {
-      max-width: $max-width;
-    }
-  }
-  @media (max-width:  $max-width) {
-    > p {
-      img {
-        max-width: 100%;
-      }
-    }
-  }
-
-  a:hover {
-  	color:$light-grey;
-  	background-color: $main-color;
-  }
-
-  aside {
-    position: absolute;
-    right: -50px;
-    width: 160px;
-    font-size: small;
+    font-size: 1.5em;
     line-height: 1.4em;
-
-    ol {
-      margin: 0;
-      padding: 0;
-    }
-  }
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
 }
 
-ul { 
-	list-style-type: none;
-	margin:0;
-	padding:0;
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
 }
 
-.cf {
-  &:before {
-    content:" ";
-    display:table;
-  }
-  &:after {
-    clear:both;
-  }
-  *zoom:1;
-}
-
-@mixin mono($color) {
-  font-family: $font-sub;
-  color: $color;
-  font-size:.75em;
-}
-.mono {
-  @include mono($grey);
-}
-
-/*
-** NAVIGATION
-*/
-nav {
-	margin-bottom:4em;
-  
-  ul {
-  
-    li {
-      margin-right:10px;
-      display:inline-block;
-  
-      a {
-        @include mono($code);
-        text-transform: uppercase;
-        letter-spacing:.2em;
-        
-        &.current {
-          color: $main-color;
-        }
-        
-        &:hover {
-          color: $dark-grey;
-        }
-      }
-    }
-  }
-
-  @media (min-width:  $max-width) {
-    .nav-left { 
-      float:left;
-    }
-    .nav-right {
-      float:right;
-    }
-  }
-}
-
-/*
-** POST
-*/
-article {
-	color: $dark-grey;
-	line-height:1.6em;
-  
-  img {
-    display:block;
-    margin:auto;
-    max-width:100%;
-    height:auto;
-  }
-
-  .highlight {
-    max-width: $read-width;
-    padding: 0.5em;
-    line-height: 1.3em;
-    font-size: 1.2em;
-    overflow: auto;
-    background: #f6f6f6;
-    border-radius: 3px;
-
-    pre {
-      margin:.5em 0;
-    }
-
-    code {
-      background-color: transparent;
-    }
-  }
-
-  p {
-    span {
-      @include mono($code)
-    }
-  }
-
-  code {
-    background-color: #f6f6f6;
-    padding: 3px;
-    @include mono($code)
-  }
-
-  ul {
-    list-style-type: disc;
-    margin-left: 2em;
-    li {
-      line-height: 1.7em;
-    }
-  }
-
-  blockquote {
-    margin:0;
-    padding:1px 20px;
-    background-color:$light-grey;
-    -webkit-box-sizing: border-box;
-       -moz-box-sizing: border-box;
-            box-sizing: border-box;
-  }
-}
-
-.title {
-	font-size:3em;
-	text-align:left;
-	line-height:1.1em;
-	margin:.5em 0 0;
-}
-.date {
-	@include mono($code);
-}
-/* center twitter embeds */
-.twitter-tweet { margin:10px !important; }
-
-/*
-** POSTS
-*/
-.post-list {
-	max-width: $read-width;
-
-  .post-list-item {
-    padding:10px;
-    display:block;
-    width:100%;
-
-    .date {
-      display:block;
-    }
-    @media (min-width:  $max-width) {
-      .date {
-        float:right;
-      }
-    }
-
-    &:nth-child(2n) {
-      background-color:$light-grey;
-    }
-
-    &:hover {
-      background: $main-color;
-      color:$light-grey;
-
-      .date {
-        color:$light-grey;
-      }
-    }
-  }
-}
-
-
-/*
-** PROJECTS
-*/
-.projects {
-  width:100%;
-  @media (max-width: 850px) {
-    text-align:center;
-  }
-
-  .project {
-    display:inline-block;
-    position:relative;
-    width:250px;
-    height:120px;
-    margin:2px 5px;
-    background-color:$grey;
-    background-position: center center;
-    background-repeat:no-repeat;
-  }
-}
-.tooltip {
-  position: absolute;
-  top: -43px;
-  left:50%;
-  margin-left:-110px;
-  width: 200px;
-  padding: 5px 10px;
-  background: rgba(0,0,0,0.8);
-  border-radius: 2px;
-  text-align: center;
-  @include mono($light-grey);
-
-  &:after {
-    content: " ";
-    position: absolute;
-    left: 50%;
-    bottom: -6px;
-    margin-left: -6px;
-    border-left: 6px solid transparent;
-    border-right: 6px solid transparent;
-    border-top: 6px solid rgba(0,0,0,0.8);
-  }
-}
-
-/*
-** RESUME
-*/
-.resume {
-  max-width: $read-width;
-  margin-bottom: 5em;
-}
-.resume_item {
-  margin-bottom: 2em;
-  display: inline-block;
-  vertical-align: top;
-  position: relative;
-  &.resume_item_half {
-    @media (min-width: $max-width) {
-      width: 49%;  
-    }
-    &:nth-child(1n) {
-      padding-right: 2em;
-    }
-  }
-  &.resume_item_large {
-    font-size: 1.2em;
-  }
-  .resume_logo {
-    position: absolute;
-    left: -70px;
-    top: 0;
-    width: 55px;
-    img {
-      width: 100%;
-    }
-  }
-}
-.resume_header {
-  margin: 0;
-}
-.resume_title {
-  font-size: 0.8em;
-  font-weight: 100;
-  color: $grey;
-  margin-left: 1em;
-}
-.resume_timeline {
-  font-weight: 100;
-  font-size: 0.9em;
-  font-style: italic;
-  margin: 0;
-}
-.resume_description {
-  font-size: 0.9em;
-  margin: 0.5em 0;
-  line-height: 1.4em;
-}
-
-.resume_list {
-  li {
-    position: relative;
-    a {
-      font-size: 0.9em;
-      display: block;
-      color: $dark-grey;
-      span {
-        color: $grey;
-        margin-right: 1em;
-        @include mono($grey);
-        padding: 10px 0;
-      }
-      &:hover {
-        background: #f6f6f6;
-      }
-    }
-  }
-}
-
-
-/*
-** FOOTER
-*/
-footer { 
-  margin:4em 0 1.5em;
+ul.posts li {
+    list-style: none;
 }
