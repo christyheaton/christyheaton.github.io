@@ -1,6 +1,2 @@
-# include Pygments for syntax highlighting
-highlighter: pygments
-# permalinks: /tutorial-:title
+name: Christy Heaton
 markdown: kramdown
-redcarpet:
-  extensions: ["strikethrough"]
