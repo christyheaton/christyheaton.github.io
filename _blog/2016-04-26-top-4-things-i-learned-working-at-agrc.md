@@ -1,15 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Things I Learned Working at the Utah AGRC'
-author:
-  display_name: Christy Heaton
-  email: christyheaton@gmail.com
 date: 2016-04-26 14:15:06
-categories:
-
-tags: blog
 ---
 
 In April 2016 my former employer, the Utah AGRC, invited me to write a piece for their guest blog section. You can view the published version [here](http://gis.utah.gov/top-4-things-i-learned-working-at-agrc/).
