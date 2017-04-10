@@ -48,35 +48,3 @@ ul.posts li {
     list-style: none;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-
-/*
-** POST
-*/
-article { color: #333; line-height: 1.6em; }
-article img { display: block; margin: auto; max-width: 100%; height: auto; }
-article .highlight { max-width: 650px; padding: 1em; line-height: 1.1em; font-size: 1.1em; overflow: auto; border-radius: 3px; }
-article .highlight pre { margin: .5em 0; }
-article .highlight code { background-color: transparent; }
-article p span { font-family: "Lucida Console", lucida, monospace; color: #888; font-size: .75em; }
-article code { font-family: "Lucida Console", lucida, monospace; color: #888; font-size: .75em; }
-article ul { list-style-type: disc; margin-left: 2em; }
-article ul li { line-height: 1.7em; }
-article blockquote { margin: 0; padding: 1px 20px; background-color: #f6f6f6; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-
-.title { font-size: 3em; text-align: left; line-height: 1.1em; margin: .5em 0 0; }
-
-.date { font-family: "Lucida Console", lucida, monospace; color: #888; font-size: .75em; }
-
-/* center twitter embeds */
-.twitter-tweet { margin: 10px !important; }
-
-/*
-** POSTS
-*/
-.post-list { max-width: 650px; }
-.post-list .post-list-item { padding: 10px; display: block; width: 100%; }
-.post-list .post-list-item .date { display: block; }
-@media (min-width: 55em) { .post-list .post-list-item .date { float: right; } }
-.post-list .post-list-item:nth-child(2n) { background-color: #f6f6f6; }
-.post-list .post-list-item:hover { background: #da8c83; color: #f6f6f6; }
-.post-list .post-list-item:hover .date { color: #f6f6f6; }
