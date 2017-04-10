@@ -86,7 +86,7 @@ ul.posts li {
   margin: 0;
 }
 .resume_title {
-  font-size: 0.8em;
+  font-size: 1em;
   font-weight: 100;
   color: $grey;
   margin-left: 1em;
