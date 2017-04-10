@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Things I Learned Working at the Utah AGRC"
+date: 2016-04-26
 ---
 
 In April 2016 my former employer, the Utah AGRC, invited me to write a piece for their guest blog section. You can view the published version [here](http://gis.utah.gov/top-4-things-i-learned-working-at-agrc/).
@@ -23,4 +24,4 @@ Making great maps is harder than you’d think. It requires a mixture of art, un
 
 ### **4. Giving Talks**
 
-While working at the AGRC I was lucky enough to attend the UGIC state GIS conference every year. During my third year of attendance I gave a talk on the verification process we were using at the time for the Utah Broadband Project. The process of preparing and giving the talk was exciting and stressful, and so rewarding. Presenting work to your peers is such a great way to organize your own thoughts about your work. I am currently an organizer for a meetup group called Maptime Seattle. We organize monthly workshops using free and open source GIS software. Planning workshops has been a great way for me to continue to build my presentation skills. I’ve even taught workshops on a subject that I had little to no experience in, just so that I could learn it myself! I can’t say this enough: there is no better way to organize your own thoughts or learn something better than by teaching it to other people. Get out there and try it!
+While working at the AGRC, I was lucky enough to attend the UGIC state GIS conference every year. During my third year of attendance I gave a talk on the verification process we were using at the time for the Utah Broadband Project. The process of preparing and giving the talk was exciting and stressful, and so rewarding. Presenting work to your peers is such a great way to organize your own thoughts about your work. I am currently an organizer for a meetup group called Maptime Seattle. We organize monthly workshops using free and open source GIS software. Planning workshops has been a great way for me to continue to build my presentation skills. I’ve even taught workshops on a subject that I had little to no experience in, just so that I could learn it myself! I can’t say this enough: there is no better way to organize your own thoughts or learn something better than by teaching it to other people. Get out there and try it!
