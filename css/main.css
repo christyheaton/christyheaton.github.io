@@ -48,3 +48,78 @@ ul.posts li {
     list-style: none;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+/*
+** RESUME
+*/
+.resume {
+  max-width: $read-width;
+  margin-bottom: 5em;
+}
+.resume_item {
+  margin-bottom: 2em;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  &.resume_item_half {
+    @media (min-width: $max-width) {
+      width: 49%;
+    }
+    &:nth-child(1n) {
+      padding-right: 2em;
+    }
+  }
+  &.resume_item_large {
+    font-size: 1.2em;
+  }
+  .resume_logo {
+    position: absolute;
+    left: -70px;
+    top: 0;
+    width: 55px;
+    img {
+      width: 100%;
+    }
+  }
+}
+.resume_header {
+  margin: 0;
+}
+.resume_title {
+  font-size: 0.8em;
+  font-weight: 100;
+  color: $grey;
+  margin-left: 1em;
+}
+.resume_timeline {
+  font-weight: 100;
+  font-size: 0.9em;
+  font-style: italic;
+  margin: 0;
+}
+.resume_description {
+  font-size: 0.9em;
+  margin: 0.5em 0;
+  line-height: 1.4em;
+}
+
+.resume_list {
+  li {
+    position: relative;
+    a {
+      font-size: 0.9em;
+      display: block;
+      color: $dark-grey;
+      span {
+        color: $grey;
+        margin-right: 1em;
+        @include mono($grey);
+        padding: 10px 0;
+      }
+      &:hover {
+        background: #f6f6f6;
+      }
+    }
+  }
+}
+
