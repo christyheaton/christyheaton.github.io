@@ -575,7 +575,7 @@ permalink: /resume/
       <ul>
         <li>Geographic Information Systems</li>
         <li>Open Source Software</li>
-		<li>Python, QGIS, Jupyter</li>
+		<li>Data Visualization</li>
 		<li>Workflow Automation</li>
 		<li>Knowledge Sharing, Community Organizing, Teaching</li>
       </ul>
@@ -605,12 +605,29 @@ permalink: /resume/
 		<li>Linux</li>
 		<li>PostGIS</li>
       </ul>
+	  <h2 id="volunteer">Volunteering</h2>
+      <h3>Current</h3>
+      <ul>
+	  	<li><a href="https://treemama.org/the-tech-treehouse/iseatree/">iSeaTree</a></li>
+		<li><a href="https://seattle.pyladies.com/">PyLadies Seattle</a></li>
+		<li><a href="https://maptimesea.github.io/">Maptime Seattle</a></li>
+      </ul>
+      <h3>Past</h3>
+      <ul>
+		<li><a href="https://casa-latina.org/">CASA Latina</a></li>
+      </ul>
+	  <h2 id="other">Other Skills</h2>
+      <ul>
+	  	<li>Public Speaking</li>
+		<li>Writing</li>
+		<li>Spanish Language</li>
+      </ul>
     </aside>
     <section class="resumeTimeline">
       <h2 id="employment">Employment</h2>
       <div class="timelineHeader">
         <h3 class="employmentTitle">GIS/Data Analyst</h3>
-        <div class="employer">Floyd|Snider</div>
+        <div class="employer"><a href="https://floydsnider.com/">Floyd|Snider</a></div>
         <div class="employmentDates">February 2018 - Present</div>
       </div>
 		<ul>
@@ -619,7 +636,7 @@ permalink: /resume/
 		</ul>
       <div class="timelineHeader">
         <h3 class="employmentTitle">Faculty Lecturer</h3>
-        <div class="employer">University of Washington</div>
+        <div class="employer"><a href="https://www.washington.edu/">University of Washington</a></div>
         <div class="employmentDates">June 2015 - May 2018</div>
       </div>
 		<ul>
@@ -628,7 +645,7 @@ permalink: /resume/
 		</ul>
       <div class="timelineHeader">
         <h3 class="employmentTitle">GIS Project Manager</h3>
-        <div class="employer">Schlosser Geographic Systems Incorporated</div>
+        <div class="employer"><a href="https://sgsi.com/">Schlosser Geographic Systems Incorporated</a></div>
         <div class="employmentDates">July 2014 - February 2018</div>
       </div>
       <ul>
@@ -638,7 +655,7 @@ permalink: /resume/
       </ul>
       <div class="timelineHeader">
         <h3 class="employmentTitle">GIS Analyst</h3>
-        <div class="employer">Utah Automated Reference Center</div>
+        <div class="employer"><a href="https://gis.utah.gov/">Utah Automated Reference Center</a></div>
         <div class="employmentDates">November 2009 - August 2012</div>
       </div>
       <ul>

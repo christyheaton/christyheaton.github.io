@@ -27,7 +27,7 @@ Maps are powerful tools that we use every day, and Python is well-equipped to ha
   <td style="border: none;font-size:16px;">
     <span style="font-weight:700;">YouthMappers: How to Approach Coding for Non-Coders</span>
     <br>
-Coding can be a career-changing skill for professionals working in GIS and geospatial data. This talk will help you get started.
+Coding can be a career-changing skill for professionals working with geospatial data. This talk will help you get started on your coding journey.
   </td>
   <td style="width:30%;border:none;font-size:16px;">
 	<a href="https://www.youtube.com/watch?v=N5TzlCFJmOk">
