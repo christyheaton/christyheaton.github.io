@@ -573,9 +573,9 @@ permalink: /resume/
     <aside class="resumeList">
       <h2 id="interests">Interests</h2>
       <ul>
-        <li>Geographic Information Systems</li>
+	    <li>Geospatial Data Analysis</li>
+        <li>Data Visualization</li>
         <li>Open Source Software</li>
-		<li>Data Visualization</li>
 		<li>Workflow Automation</li>
 		<li>Knowledge Sharing, Community Organizing, Teaching</li>
       </ul>
@@ -584,7 +584,9 @@ permalink: /resume/
       <ul>
 		<li>Python</li>
 		<li>SQL</li>
-        <li>R</li>
+		<li>Markdown</li>
+		<li>Git</li>
+		<li>R</li>
       </ul>
       <h3>Past</h3>
       <ul>
@@ -594,9 +596,9 @@ permalink: /resume/
       <h2 id="skills">Skills</h2>
       <h3>Current</h3>
       <ul>
-		<li>Geospatial Data Analysis</li>
-		<li>Data Visualization</li>
-		<li>Scripting/Workflow Automation</li>
+		<li>Esri Software Suite</li>
+		<li>QGIS</li>	
+		<li>Data Management</li>
 		<li>Cartography</li>
       </ul>
       <h3>Past</h3>
@@ -620,7 +622,7 @@ permalink: /resume/
       <ul>
 	  	<li>Public Speaking</li>
 		<li>Writing</li>
-		<li>Spanish Language</li>
+		<li>Spanish Language (Level B2)</li>
       </ul>
     </aside>
     <section class="resumeTimeline">
@@ -673,7 +675,7 @@ permalink: /resume/
         <div class="employer">University of Utah, 2009</div>
       </div>
       <div class="timelineHeader">
-        <h3 class="employmentTitle">B.A. Anthropology and Spanish Language and Cultural Studies</h3>
+        <h3 class="employmentTitle">B.A. Anthropology and Spanish Language and Cultural Studies (1-Year Study Abroad in Vigo, Spain)</h3>
         <div class="employer">University of South Dakota, 2004</div>
       </div>
 	  
