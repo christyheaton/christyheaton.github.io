@@ -1,0 +1,26 @@
+---
+title: "PyLadies: Supporting Female Python Developers Around the World"
+date: 2016-12-12
+categories: 
+ - blog
+---
+
+PyLadies - Supporting Female Python Developers Around the World
+
+It's no secret that the world of software development is a predominantly male industry. Women in this field can face unique challenges navigating the work environment, speaking up, and competing for positions and promotions. However, having a more diverse development team, including a more balanced gender dynamic, means adding new approaches and perspectives that can greatly expand creativity in the industry. Enter PyLadies - an international group that focuses on helping women learn the Python language and engage in the Python community. As an international organization, PyLadies has local chapters and organizers, but all groups share the same goals. 
+
+Some events organized by local PyLadies chapters are:  
+
+Hack Nights
+
+Hack nights are unstructured meetings that typically take place at coffee shops in different areas of a city. Members bring their own work such as a tutorial, work to re-factor, or homework. This warm and inviting group will jump in and help with questions, or just provide a productive place to get work done. 
+
+Talk Nights
+
+Talk nights typically involve several lightning talks followed by a main presenter. A talk night can be someone practicing their PyCon talk, sharing an interesting project, or teaching the group intermediate Python topics. Speakers are typically (but not always) female members of the local Python community with something interesting to share. PyLadies members are also encouraged to give lightning talks on their work. Although recruiters are discouraged from attending these events (the emphasis is on learning and support), networking can invariably lead to interesting job openings.
+
+Local Python Conferences
+
+PyLadies often attend Python conferences and have an information booth. Organizers wo-man the desk, provide a hub for fellow PyLadies, and are often among the presenters at the conferences. They may organize a social or networking event as a part of the conference to bring people together.
+
+PyLadies supports an underrepresented group of developers by providing opportunities to meet like-minded people, get help, and share their own knowledge by helping others. Check out your local PyLadies chapter or start your own!

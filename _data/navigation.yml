@@ -1,20 +1,10 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Contact"
-    url: /contact/
+#  - title: "Portfolio"
+#    url: /portfolio/
+  - title: "Speaking"
+    url: /speaking/
   - title: "Blog"
     url: /blog/
   - title: "GitHub"
     url: https://github.com/christyheaton
-  
-# Sidebar - displays under Author Profile
-my_sidebar:
-  - title: Archives
-    children:
-      - title: "Category"
-        url: /categories/
-      - title: "Tag"
-        url: /tags/
+ 
