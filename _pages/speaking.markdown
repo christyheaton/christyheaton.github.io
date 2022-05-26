@@ -40,7 +40,7 @@ Coding can be a career-changing skill for professionals working in GIS and geosp
   <td style="border: none;font-size:16px;">
     <span style="font-weight:700;">PyCon 2019: Plan Your Next Eclipse Viewing with Jupyter and Geopandas</span>
     <br>
-Python is well-equipped to handle spatial data and with well documented robust libraries to help you perform spatial analysis and create beautiful maps. In this talk, we'll discover the fascinating world of spatial analysis by solving a fun problem: where can we go to see an upcoming solar eclipse? Along the way we'll learn about mapping topics like projections and coordinate systems, best practices for map making, and intricacies of spatial data.
+In this talk, we'll discover the fascinating world of spatial analysis by solving a fun problem: where can we go to see an upcoming solar eclipse? Along the way we'll learn about mapping topics like projections and coordinate systems, best practices for map making, and intricacies of spatial data.
   </td>
   <td style="width:30%;border:none;font-size:16px;">
 	<a href="https://www.youtube.com/watch?v=PIPJAE-PXd4">
@@ -49,5 +49,44 @@ Python is well-equipped to handle spatial data and with well documented robust l
   </td>
 </tr>
 
-</table>
+<tr style="border:none;">
+  <td style="border: none;font-size:16px;">
+    <span style="font-weight:700;">PyCon 2019 Charla: PyCon Charla: Planea el Proximo Eclipse con Jupyter y Geopandas</span>
+    <br>
+En esta charla, descubriremos el fascinante mundo del análisis espacial resolviendo un divertido problema: ¿dónde podemos ir para ver un próximo eclipse solar? En el camino, aprenderemos sobre temas de mapeo como proyecciones y sistemas de coordenadas, las mejores prácticas para hacer mapas y las complejidades de los datos espaciales.
+  </td>
+  <td style="width:30%;border:none;font-size:16px;">
+	<a href="https://youtu.be/tTIWVfltBbk">
+		<img src= "{{ "assets/images/speaking/PyCon2019_charla.PNG" | relative_url }}"/>
+	</a>
+  </td>
+</tr>
 
+<tr style="border:none;">
+  <td style="border: none;font-size:16px;">
+    <span style="font-weight:700;">North Bay Python: Map it with Python!</span>
+    <br>
+In this talk, we’ll learn about modern map making and the Geographic Information that powers it, as well as some of Python’s open source mapping libraries: geopandas, matplotlib, shapely, seaborn, and fiona. Then we’ll go through a fun mapping example together. No need for expensive mapping software, we’ll have everything we need in a Jupyter Notebook.
+  </td>
+  <td style="width:30%;border:none;font-size:16px;">
+	<a href="https://www.youtube.com/watch?v=wsSEKm-rU6U">
+		<img src= "{{ "assets/images/speaking/NBPy.PNG" | relative_url }}"/>
+	</a>
+  </td>
+</tr>
+
+<tr style="border:none;">
+  <td style="border: none;font-size:16px;">
+    <span style="font-weight:700;">University of Washington GIS Day: Networking for Interesting Career Opportunities</span>
+    <br>
+Cool opportunities are out there, but how you do you find them? Networking is key to meeting the right people at the right time. This talk will help you get started networking for interesting career opportunites in GIS!
+  </td>
+  <td style="width:30%;border:none;font-size:16px;">
+	<a href="https://www.youtube.com/watch?v=z-q4znBqokw&t=1s">
+		<img src= "{{ "assets/images/speaking/UWGIS2014.jpg" | relative_url }}"/>
+	</a>
+  </td>
+</tr>
+
+
+</table>

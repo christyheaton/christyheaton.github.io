@@ -31,7 +31,7 @@ locale: "en-US"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 #theme: minima
 plugins:
   - jekyll-feed
