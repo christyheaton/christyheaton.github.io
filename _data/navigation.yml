@@ -3,6 +3,8 @@ main:
 #    url: /portfolio/
   - title: "Speaking"
     url: /speaking/
+  - title: "Resume"
+    url: /resume/
   - title: "Blog"
     url: /blog/
   - title: "GitHub"

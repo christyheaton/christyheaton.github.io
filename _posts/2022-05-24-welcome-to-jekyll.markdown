@@ -1,5 +1,5 @@
 ---
-title:  "Reformating my site!"
+title:  "Reformating my site"
 date: 2022-05-24
 categories: 
  - blog
