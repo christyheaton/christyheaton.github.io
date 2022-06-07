@@ -1,0 +1,9 @@
+---
+title:  "2019 Q2 Python Software Foundation Community Service Award Blog Post"
+date: 2019-09-26
+categories: 
+ - blog
+ - PSF
+---
+
+At PyCon 2019 I gave my first Spanish-language talk. I got to the conference room early to enjoy the talks before mine and that's how I met Felipe de Morais and learned about the work he was doing with a group called AfroPython. A while later I learned he was given a PSF Community Service Award so I jumped at the chance to write it. You can read the full post [here](https://pyfound.blogspot.com/2019/09/felipe-de-morais-2019-q2-community.html).

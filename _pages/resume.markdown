@@ -603,6 +603,7 @@ permalink: /resume/
       </ul>
       <h3>Past</h3>
       <ul>
+	    <li>Agile</li>
 		<li>DevOps</li>
 		<li>Linux</li>
 		<li>PostGIS</li>
