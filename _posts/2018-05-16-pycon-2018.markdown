@@ -1,0 +1,26 @@
+---
+title:  "Presenting at PyCon 2018"
+date: 2018-05-16
+categories: 
+ - blog
+---
+
+I really enjoyed PyConUS 2018 in Cleveland, OH. Here are some highlights:
+
+* I gave a tutorial on Spatial Analysis and Maps with Python. I had a great time putting the whole thing together, and it went well! I liked that I presented right at the beginning of the conference, so that I didn’t have to stress about it most of the time. Check out the recording [here](https://www.youtube.com/watch?v=uRvTeK5Ndq8&t=829s).
+
+![Nice Tweet](/assets/images/blog/pycon2018tweet.png)
+
+* After my tutorial a few of my students approached me and turned out to be Esri employees. I got a chance to talk to them about what their software can do as it relates to Jupyter Notebooks which is super exciting.
+
+* I met the creator of Python, Guido van Rossum! He was attending the conference just like anybody else, and kindly took a picture with me. I also ended up sitting next to him at one of the plenary sessions. Note: I’m not short, he’s just really really tall.
+
+![Guido](/assets/images/blog/pycon2018guido.png)
+
+* On more than one occasion I’d be sitting at breakfast/lunch or at a talk that was about to begin and someone would sit next to me who I recognized from the larger Python community. Everyone was really friendly and accessible, and I made some great new contacts.
+* I had a little time to explore Cleveland, where I’d never been before.
+
+![Cleveland](/assets/images/blog/pycon2018cleveland.png)
+* There was a 5k fun run event that got cancelled due to thunder and lightning. But a few of us went for a run that morning, sticking close to the venue.
+
+![Fun Run](/assets/images/blog/pycon2018funrun.png)

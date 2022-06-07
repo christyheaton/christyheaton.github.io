@@ -1,5 +1,5 @@
 ---
-title:  "My first Python Software Foundation Community Service Award Blog Post"
+title:  "My First PSF CSA Blog Post"
 date: 2017-01-01
 categories: 
  - blog

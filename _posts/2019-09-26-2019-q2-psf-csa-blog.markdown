@@ -1,5 +1,5 @@
 ---
-title:  "2019 Q2 Python Software Foundation Community Service Award Blog Post"
+title:  "PSF CSA Award Blog Post 2019 Q2"
 date: 2019-09-26
 categories: 
  - blog

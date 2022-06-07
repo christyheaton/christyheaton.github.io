@@ -38,7 +38,7 @@ Coding can be a career-changing skill for professionals working with geospatial 
 
 <tr style="border:none;">
   <td style="border: none;font-size:16px;">
-    <span style="font-weight:700;">PyCon 2019: Plan Your Next Eclipse Viewing with Jupyter and Geopandas</span>
+    <span style="font-weight:700;">PyCon 2019 Talk: Plan Your Next Eclipse Viewing with Jupyter and Geopandas</span>
     <br>
 In this talk, we'll discover the fascinating world of spatial analysis by solving a fun problem: where can we go to see an upcoming solar eclipse? Along the way we'll learn about mapping topics like projections and coordinate systems, best practices for map making, and intricacies of spatial data.
   </td>
@@ -64,13 +64,13 @@ En esta charla, descubriremos el fascinante mundo del análisis espacial resolvi
 
 <tr style="border:none;">
   <td style="border: none;font-size:16px;">
-    <span style="font-weight:700;">North Bay Python: Map it with Python!</span>
+    <span style="font-weight:700;">PyCon 2018 Tutorial: Intro to Spatial Analysis and Maps with Python</span>
     <br>
-In this talk, we’ll learn about modern map making and the Geographic Information that powers it, as well as some of Python’s open source mapping libraries: geopandas, matplotlib, shapely, seaborn, and fiona. Then we’ll go through a fun mapping example together. No need for expensive mapping software, we’ll have everything we need in a Jupyter Notebook.
+In this tutorial, we will introduce Python as a spatial problem solving and data visualization tool. To demonstrate the power of Python for spatial analysis, we will solve a spatial problem and make a beautiful map of our results. Along the way, we will discuss considerations when dealing with spatial data and the wide range of Python tools available for spatial analysis.
   </td>
   <td style="width:30%;border:none;font-size:16px;">
-	<a href="https://www.youtube.com/watch?v=wsSEKm-rU6U">
-		<img src= "{{ "assets/images/speaking/NBPy.PNG" | relative_url }}"/>
+	<a href="https://www.youtube.com/watch?v=uRvTeK5Ndq8">
+		<img src= "{{ "assets/images/speaking/PyCon2018.PNG" | relative_url }}"/>
 	</a>
   </td>
 </tr>
