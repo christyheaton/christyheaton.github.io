@@ -5,7 +5,7 @@ categories:
  - blog
 ---
 
-Planning activities is a challenge in this time of uncertainty, but PyLadies Seattle pulled it together for this panel discussion on What We Love About Python. I had the pleaseure of facilitating the discussion which included panelists Guido van Rossum, Emily Spahn, Thea Flowers, and Reshama Shaikh. 
+Planning activities is a challenge in this time of uncertainty, but PyLadies Seattle pulled it together for this panel discussion on What We Love About Python. I had the pleasure of facilitating the discussion which included panelists Guido van Rossum, Emily Spahn, Thea Flowers, and Reshama Shaikh. 
 
 Topics discussed were:
 
