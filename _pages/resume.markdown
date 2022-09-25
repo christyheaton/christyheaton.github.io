@@ -629,9 +629,17 @@ permalink: /resume/
     <section class="resumeTimeline">
       <h2 id="employment">Employment</h2>
       <div class="timelineHeader">
+        <h3 class="employmentTitle">Geospatial Developer</h3>
+        <div class="employer"><a href="https://www.woven-planet.global/en">Woven Planet</a></div>
+        <div class="employmentDates">September 2022 - Present</div>
+      </div>
+		<ul>
+			<li>Design, build, and maintain customer deliverables using Python and SQL</li>
+		</ul>      
+	<div class="timelineHeader">
         <h3 class="employmentTitle">GIS/Data Analyst</h3>
         <div class="employer"><a href="https://floydsnider.com/">Floyd|Snider</a></div>
-        <div class="employmentDates">February 2018 - Present</div>
+        <div class="employmentDates">February 2018 - September 2022</div>
       </div>
 		<ul>
 			<li>GIS, Python, and data visualization expert for the firm</li>
