@@ -7,6 +7,20 @@ permalink: /speaking/
 entries_layout: grid
 ---
 
+<table style="width:100%; border:none;" cellspacing="10" >
+
+<tr style="border:none;">
+  <td style="border: none;font-size:16px;">
+    <span style="font-weight:700;">Women in Data Science Puget Sound 2022: From Dirty to Clean Addressing Environmental Contamination with Python</span>
+    <br>
+Environmental consultants work with a variety of industries to provide insight on environmental concerns. Cleanup levels for chemicals, set by local and national agencies, must be achieved to protect the health of humans and the environment. Data management and visualization are key to assisting scientists and engineers make informed decisions. In this talk, we will use Pandas to process tabular data, Matplotlib and seaborn to create charts and graphs, and GeoPandas to create geographic charts and process geospatial data, all in the context of an environmental cleanup project.
+  </td>
+  <td style="width:30%;border:none;font-size:16px;">
+	<a href="https://www.youtube.com/watch?v=bOj9gv_pdio">
+		<img src= "{{ "assets/images/speaking/WDS_PS.PNG" | relative_url }}"/>
+	</a>
+  </td>
+</tr>
 
 <table style="width:100%; border:none;" cellspacing="10" >
 
