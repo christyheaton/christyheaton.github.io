@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Christy Heaton - GIS Analyst
+title: Christy Heaton - Geospatial Developer
 email: christyheaton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my website. 
@@ -45,7 +45,7 @@ title: "Christy Heaton"
 title_separator: "|"
 subtite: "GIS Analyst"
 email: christyheaton@gmail.com
-description: Christy Heaton, GIS Analyst
+description: Christy Heaton, Geospatial Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christyheaton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: christytoes
@@ -57,7 +57,7 @@ repository: "christyheaton/christyheaton.github.io"
 author:
   name             : "Christy Heaton"
   avatar           : "assets/images/Christy.jpg"
-  bio              : "GIS/Data Analyst"
+  bio              : "Geospatial Developer"
   location         : "Seattle, WA"
   email            : christyheaton@gmail.com
   uri              :
