@@ -573,7 +573,7 @@ permalink: /resume/
     <aside class="resumeList">
       <h2 id="interests">Interests</h2>
       <ul>
-	    <li>Geospatial Data Analysis</li>
+	    <li>Geospatial Software Development</li>
         <li>Data Visualization</li>
         <li>Open Source Software</li>
 		<li>Workflow Automation</li>
@@ -584,29 +584,24 @@ permalink: /resume/
       <ul>
 		<li>Python</li>
 		<li>SQL</li>
-		<li>Markdown</li>
-		<li>Git</li>
-		<li>R</li>
       </ul>
       <h3>Past</h3>
       <ul>
+		<li>R</li>
 		<li>HTML/CSS</li>
-		<li>MapBasic</li>
       </ul>
       <h2 id="skills">Skills</h2>
       <h3>Current</h3>
       <ul>
-		<li>Esri Software Suite</li>
-		<li>QGIS</li>	
-		<li>Data Management</li>
-		<li>Cartography</li>
+		<li>Git/GitHub</li>
+		<li>QGIS</li>
+		<li>AWS</li>
+		<li>Databases</li>	
       </ul>
       <h3>Past</h3>
       <ul>
-	    <li>Agile</li>
-		<li>DevOps</li>
-		<li>Linux</li>
-		<li>PostGIS</li>
+	    <li>Esri Software Suite</li>
+		<li>Cartography</li>
       </ul>
 	  <h2 id="volunteer">Volunteering</h2>
       <h3>Current</h3>
