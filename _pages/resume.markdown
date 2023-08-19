@@ -625,11 +625,11 @@ permalink: /resume/
       <h2 id="employment">Employment</h2>
       <div class="timelineHeader">
         <h3 class="employmentTitle">Geospatial Developer</h3>
-        <div class="employer"><a href="https://www.woven-planet.global/en">Woven Planet</a></div>
+        <div class="employer"><a href="https://woven.toyota/en/">Woven by Toyota</a></div>
         <div class="employmentDates">September 2022 - Present</div>
       </div>
 		<ul>
-			<li>Design, build, and maintain customer deliverables using Python and SQL</li>
+			<li>Design, build, and maintain customer deliverables using Python</li>
 		</ul>      
 	<div class="timelineHeader">
         <h3 class="employmentTitle">GIS/Data Analyst</h3>
