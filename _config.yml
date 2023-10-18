@@ -87,9 +87,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon
-      url: "https://mas.to/@christyheaton"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/christyheaton"
