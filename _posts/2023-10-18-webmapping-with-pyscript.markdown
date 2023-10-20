@@ -5,7 +5,7 @@ categories:
  - blog
 ---
 
-I just started using [PyScript](https://pyscript.net/) and its awesome!
+I just started using [PyScript](https://pyscript.net/) and it's awesome!
 
 PyScript allows you to run Python code in a browser, like JavaScript does, so you don't have to worry about having a local Python setup. It even creates a virtual environment with configurable libraries, which will eliminate a lot of pain points when getting started with Python.
 
@@ -17,5 +17,5 @@ For my first web map using PyScript, I made a map of 5 random hikes in the State
 
 The best way to get started with PyScript is by creating an account on [pyscript.com](pyscript.com) and creating a new project, which is how I made the apps that have been linked in this post. 
 
-I'll definately keep using PyScript and look forward to seeing how the project evolves.
+I'll definitely keep using PyScript and look forward to seeing how the project evolves.
 
