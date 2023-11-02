@@ -13,7 +13,7 @@ I made a map of all the populated places that have "cat" in the name.
 
 Check out the interactive version [here](https://cheaton.pyscriptapps.com/30daymapchallenge-day1/latest/)!
 
-![Day1](/assets/images/map_challenge_2023/Day01_Points.PNG)
+![Day1](/assets/images/map_challenge_2023/Day01_Points.png)
 
 Data sources: [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-populated-places/)
 
