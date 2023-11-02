@@ -15,5 +15,6 @@ I made a map of all the populated places that have "cat" in the name.
 
 
 Data sources: [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-populated-places/)
+
 Tools: Python, geopandas, PyScript
 
