@@ -19,3 +19,17 @@ Data sources: [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cul
 
 Tools: Python, geopandas, PyScript
 
+
+### Day 2: Lines
+
+I made a map of GPS tracks at Lake Union.
+
+Click on the below image to load the interactive version (note that it can take around 30 seconds to load the page).
+
+[![Day2](/assets/images/blog/map_challenge_2023/Day02_Lines.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day2/latest/)
+
+Data sources: [Strava](https://www.strava.com/)
+
+Tools: Python, geopandas, PyScript
+
+
