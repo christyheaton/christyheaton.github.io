@@ -11,7 +11,7 @@ I'm participating in the [#30DayMapChallenge](https://30daymapchallenge.com/) th
 
 I made a map of all the populated places that have "cat" in the name.
 
-Check out the interactive version [here](https://cheaton.pyscriptapps.com/30daymapchallenge-day1/latest/)!
+Click on the below image to load the interactive version (note that it can take around 30 seconds to load the page).
 
 [![Day1](/assets/images/blog/map_challenge_2023/Day01_Points.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day1/latest/)
 
