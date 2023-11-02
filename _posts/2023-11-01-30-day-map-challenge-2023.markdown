@@ -11,7 +11,7 @@ I'm participating in the [#30DayMapChallenge](https://30daymapchallenge.com/) th
 
 I made a map of all the populated places that have "cat" in the name.
 
-[![MapHere]("assets/images/map_challenge_2023/Day01_Points.PNG")](https://cheaton.pyscriptapps.com/30daymapchallenge-day1/latest/)
+[![MapHere](assets/images/map_challenge_2023/Day01_Points.PNG)](https://cheaton.pyscriptapps.com/30daymapchallenge-day1/latest/)
 
 
 Data sources: [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-populated-places/)
