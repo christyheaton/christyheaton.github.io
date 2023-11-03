@@ -33,3 +33,16 @@ Data sources: [Strava](https://www.strava.com/)
 Tools: Python, geopandas, PyScript
 
 
+### Day 3: Polygons
+
+A country guesser game! 
+
+Click on the below image to load the interactive version (note that it can take around 30 seconds to load the page).
+
+[![Day3](/assets/images/blog/map_challenge_2023/Day3_Polygons.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day3/latest/)
+
+Data sources: [Strava](https://www.strava.com/)
+
+Tools: Python, geopandas, PyScript
+
+
