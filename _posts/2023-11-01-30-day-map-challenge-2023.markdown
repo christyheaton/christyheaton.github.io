@@ -5,13 +5,11 @@ categories:
  - blog
 ---
 
-I'm participating in the [#30DayMapChallenge](https://30daymapchallenge.com/) this year.
+I'm participating in the [#30DayMapChallenge](https://30daymapchallenge.com/) this year. Many of the maps are interactive! If you can click on the image it will redirect you to the interactive version. Note that if the map was made with PyScript, the page could take ~30 seconds to load.
 
 ### Day 1: Points
 
-I made a map of all the populated places that have "cat" in the name.
-
-Click on the below image to load the interactive version (note that it can take around 30 seconds to load the page).
+Populated places that have "cat" in the name.
 
 [![Day1](/assets/images/blog/map_challenge_2023/Day01_Points.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day1/latest/)
 
@@ -22,9 +20,7 @@ Tools: Python, geopandas, PyScript
 
 ### Day 2: Lines
 
-I made a map of GPS tracks at Lake Union.
-
-Click on the below image to load the interactive version (note that it can take around 30 seconds to load the page).
+My running and kayaking GPS tracks at Lake Union.
 
 [![Day2](/assets/images/blog/map_challenge_2023/Day02_Lines.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day2/latest/)
 
@@ -35,13 +31,11 @@ Tools: Python, geopandas, PyScript
 
 ### Day 3: Polygons
 
-A country guesser game! 
-
-Click on the below image to load the interactive version (note that it can take around 30 seconds to load the page).
+A country guesser game! Every time you refresh the page, a new mystery country will be shown. Take a (mental) guess and then hover over the area to see if you were right.
 
 [![Day3](/assets/images/blog/map_challenge_2023/Day3_Polygons.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day3/latest/)
 
-Data sources: [Strava](https://www.strava.com/)
+Data sources: [Esri](https://hub.arcgis.com/datasets/esri::world-countries-generalized/explore)
 
 Tools: Python, geopandas, PyScript
 
