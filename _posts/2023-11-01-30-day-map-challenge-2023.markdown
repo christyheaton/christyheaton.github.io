@@ -40,3 +40,14 @@ Data sources: [Esri](https://hub.arcgis.com/datasets/esri::world-countries-gener
 Tools: Python, geopandas, PyScript
 
 
+### Day 4: A Bad Map
+
+Seattle neighborhoods colored by name alphabetically.
+
+[![Day4](/assets/images/blog/map_challenge_2023/Day4_ABadMap.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day4/latest/)
+
+Data sources: [City of Seattle](https://data-seattlecitygis.opendata.arcgis.com/search?collection=Dataset&q=neighborhoods)
+
+Tools: Python, geopandas, PyScript
+
+
