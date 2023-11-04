@@ -42,7 +42,7 @@ Tools: Python, geopandas, PyScript
 
 ### Day 4: A Bad Map
 
-Seattle neighborhoods colored by name alphabetically.
+Seattle neighborhoods colored by name alphabetically. It may look cool but good luck figuring out which neighborhood is which!
 
 [![Day4](/assets/images/blog/map_challenge_2023/Day4_ABadMap.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day4/latest/)
 
