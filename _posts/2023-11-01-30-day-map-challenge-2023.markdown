@@ -51,3 +51,13 @@ Data sources: [City of Seattle](https://data-seattlecitygis.opendata.arcgis.com/
 Tools: Python, geopandas, PyScript
 
 
+### Day 5: Analog Map
+
+"Neighborhoods CATS" Analog is so unforgiving!
+
+![Day5](](/assets/images/blog/map_challenge_2023/Day5_AnalogMap.jpg)
+![Day5_bonus](](/assets/images/blog/map_challenge_2023/Day5_AnalogMap_wCat.jpg)
+
+Media: packing paper, Sharpie
+
+
