@@ -55,8 +55,8 @@ Tools: Python, geopandas, PyScript
 
 "Neighborhoods CATS" Analog is so unforgiving!
 
-![Day5](](/assets/images/blog/map_challenge_2023/Day5_AnalogMap.jpg)
-![Day5_bonus](](/assets/images/blog/map_challenge_2023/Day5_AnalogMap_wCat.jpg)
+![Day5](/assets/images/blog/map_challenge_2023/Day5_AnalogMap.jpg)
+![Day5_bonus](/assets/images/blog/map_challenge_2023/Day5_AnalogMap_wCat.jpg)
 
 Media: packing paper, Sharpie
 
