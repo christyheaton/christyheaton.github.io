@@ -61,3 +61,15 @@ Tools: Python, geopandas, PyScript
 Media: packing paper, Sharpie
 
 
+### Day 6: Asia
+
+Boat rentals in Japan. Reminds me of when I rented a canoe near Arashiyama in Kyoto, though that rental place is not in the dataset. 
+
+[![Day6](/assets/images/blog/map_challenge_2023/Day06_Asia.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day6/latest/)
+![Day6_bonus](/assets/images/blog/map_challenge_2023/Day06_canoe_arashiyama.jpg)
+
+Data Source: [OpenStreetMap](https://www.openstreetmap.org/) via [overpass-turbo](https://overpass-turbo.eu/)
+
+Tools: Python, geopandas, PyScript
+
+
