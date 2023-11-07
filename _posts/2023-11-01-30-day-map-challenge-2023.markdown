@@ -77,8 +77,8 @@ Tools: Python, geopandas, PyScript
 
 There's a beautiful spot on Bainbridge Island that you can get to from Seattle with out a car... if you're creative.
 
-[![Day7](Day07_Navigation.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day7/latest/)
-![Day7_bonus](Day07_Gazzam.jpg)
+[![Day7](/assets/images/blog/map_challenge_2023/Day07_Navigation.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day7/latest/)
+![Day7_bonus](/assets/images/blog/map_challenge_2023/Day07_Gazzam.jpg)
 
 Tools: Python, geopandas, PyScript
 
