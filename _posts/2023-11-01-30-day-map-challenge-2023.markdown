@@ -87,7 +87,7 @@ Tools: Python, geopandas, PyScript
 
 Rainfall estimates (in mm) in central Africa on November 6, 2023 using the [RFE 2.0](https://www.cpc.ncep.noaa.gov/products/fews/RFE2.0_tech.pdf) model.
 
-![Day7](/assets/images/blog/map_challenge_2023/Day08_Africa.PNG)
+![Day7](/assets/images/blog/map_challenge_2023/Day08_Africa.png)
 
 Data source: [NOAA](https://www.cpc.ncep.noaa.gov/products/international/data.shtml)
 
