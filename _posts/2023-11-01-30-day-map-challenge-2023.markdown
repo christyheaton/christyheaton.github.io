@@ -87,9 +87,22 @@ Tools: Python, geopandas, PyScript
 
 Estimated rainfall (in mm) in central Africa on November 6, 2023 using the [RFE 2.0](https://www.cpc.ncep.noaa.gov/products/fews/RFE2.0_tech.pdf) model.
 
-![Day7](/assets/images/blog/map_challenge_2023/Day08_Africa.png)
+![Day8](/assets/images/blog/map_challenge_2023/Day08_Africa.png)
 
 Data source: [NOAA](https://www.cpc.ncep.noaa.gov/products/international/data.shtml)
+
+Tools: Python, geopandas
+
+
+### Day 9: Hexagons
+
+American Crow sightings in Connecticut between 2021-today (November, 2023).
+
+![Day9](/assets/images/blog/map_challenge_2023/Day09_Hexagons.png)
+![Day9_bonus](/assets/images/blog/map_challenge_2023/Day09_crowphoto_2023-11-09_06-00-25.jpg)
+
+
+Data source: [Project FeederWatch, TheCornellLab](https://feederwatch.org/explore/raw-dataset-requests/)
 
 Tools: Python, geopandas
 
