@@ -106,6 +106,6 @@ Method: [This blog](https://python.plainenglish.io/creating-beautiful-hexagon-ma
 
 Data source: [Project FeederWatch, TheCornellLab](https://feederwatch.org/explore/raw-dataset-requests/)
 
-Tools: Python, geopandas
+Tools: Python, geopandas, PyScript
 
 
