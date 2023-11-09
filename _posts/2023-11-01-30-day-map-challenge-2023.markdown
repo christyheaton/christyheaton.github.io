@@ -96,7 +96,7 @@ Tools: Python, geopandas
 
 ### Day 9: Hexagons
 
-American Crow sightings in Connecticut between 2021-today (November, 2023).
+Number of American Crow sightings in Connecticut between 2021-today (November, 2023).
 
 ![Day9](/assets/images/blog/map_challenge_2023/Day09_Hexagons.png)
 ![Day9_bonus](/assets/images/blog/map_challenge_2023/Day09_crowphoto_2023-11-09_06-00-25.jpg)
