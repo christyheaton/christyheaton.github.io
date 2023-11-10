@@ -108,3 +108,14 @@ Data source: [Project FeederWatch, TheCornellLab](https://feederwatch.org/explor
 Tools: Python, geopandas, PyScript
 
 
+### Day 10: North America
+
+Cities in the path of the total solar eclipse coming up on April 8, 2024, sized and colored by population.
+
+[![Day10](/assets/images/blog/map_challenge_2023/Day10_NorthAmerica.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day10/latest/)
+
+Data source: [NASA](https://svs.gsfc.nasa.gov/5073)
+
+Tools: Python, geopandas, PyScript
+
+
