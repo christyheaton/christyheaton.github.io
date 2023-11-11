@@ -119,3 +119,14 @@ Data sources: Eclipses: [NASA](https://svs.gsfc.nasa.gov/5073), Cities: [Natural
 Tools: Python, geopandas, PyScript
 
 
+### Day 11: Retro
+
+Went with a retro-futuristic 80s aesthetic. Groovy and hypnotic!
+
+![Day1](/assets/images/blog/map_challenge_2023/Day11_Retro.png)
+
+Data sources: [Natural Earth](https://www.naturalearthdata.com/)
+
+Tools: QGIS
+
+
