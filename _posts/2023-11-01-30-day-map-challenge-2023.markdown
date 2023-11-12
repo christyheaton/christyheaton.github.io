@@ -123,10 +123,22 @@ Tools: Python, geopandas, PyScript
 
 Went with a retro-futuristic 80s aesthetic. Groovy and hypnotic!
 
-![Day1](/assets/images/blog/map_challenge_2023/Day11_Retro.png)
+![Day11](/assets/images/blog/map_challenge_2023/Day11_Retro.png)
 
 Data sources: [Natural Earth](https://www.naturalearthdata.com/)
 
 Tools: QGIS
+
+
+### Day 12: South America
+
+Volcanoes of Ecuador
+
+![Day12](/assets/images/blog/map_challenge_2023/Day12_SouthAmerica.png)
+
+Data sources: [Princeton](https://maps.princeton.edu/catalog/harvard-glb-volc)
+
+Tools: Python, geopandas, PyScript
+
 
 
