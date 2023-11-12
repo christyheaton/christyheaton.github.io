@@ -134,7 +134,7 @@ Tools: QGIS
 
 Volcanoes of Ecuador
 
-![Day12](/assets/images/blog/map_challenge_2023/Day12_SouthAmerica.png)
+[![Day12](/assets/images/blog/map_challenge_2023/Day12_SouthAmerica.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day12/latest/)
 
 Data sources: [Princeton](https://maps.princeton.edu/catalog/harvard-glb-volc)
 
