@@ -138,7 +138,7 @@ Volcanoes of Ecuador
 
 Data sources: [Princeton](https://maps.princeton.edu/catalog/harvard-glb-volc)
 
-Tools: Python, geopandas, PyScript
+Tools: Python, geopandas
 
 
 
