@@ -147,7 +147,7 @@ Privately-managed vs. publicly-managed trees in Seattle.
 
 ![Day13](/assets/images/blog/map_challenge_2023/Day13_Choropleth.png)
 
-Data sources: Trees from [SDOT](https://data.seattle.gov/dataset/SDOT-Trees/5g8f-i97c), Neighborhoods from [City of Seattle](https://data-seattlecitygis.opendata.arcgis.com/search?collection=Dataset&q=neighborhoods))
+Data source: Trees from [SDOT](https://data.seattle.gov/dataset/SDOT-Trees/5g8f-i97c)
 
 Tools: Python, geopandas
 
@@ -176,6 +176,11 @@ Tools: Python, geopandas
 
 
 ### Day 16: Oceania
+
+A hand-drawn map of my trip to New Zealand.
+
+![Day16](/assets/images/blog/map_challenge_2023/Day16_Oceania.png)
+
 
 ### Day 17: Flow
 
