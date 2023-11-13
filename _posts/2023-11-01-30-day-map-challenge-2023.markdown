@@ -143,7 +143,7 @@ Tools: Python, geopandas, PyScript
 
 ### Day 13: Choropleth
 
-Number of Trees in the Neighborhoods of Seattle
+Number of Non-public Trees in the Neighborhoods of Seattle
 
 [![Day13](/assets/images/blog/map_challenge_2023/Day13_Choropleth.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day13/latest/)
 
