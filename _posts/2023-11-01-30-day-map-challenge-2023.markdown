@@ -205,7 +205,7 @@ Trees in a grid, colored by height.
 
 ![Day28](/assets/images/blog/map_challenge_2023/Day28_ChartMap.png)
 
-Data Source: Boat rentals from [OpenStreetMap](https://www.openstreetmap.org/) via [overpass-turbo](https://overpass-turbo.eu/). Kayak tracks from [Strava](https://www.strava.com/).
+Data Source: [Advent of Code](https://adventofcode.com/2022/day/8)
 
 Tools: Python, geopandas
 
