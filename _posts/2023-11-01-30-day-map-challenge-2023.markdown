@@ -165,13 +165,52 @@ Tools: Python, geopandas, PyScript
 
 ### Day 15: OpenStreetMap
 
-Boat rentals and my Strava Kayaking Tracks. Still a few spots I need to try!
+Boat rentals and my Strava kayaking tracks. Still a spot I need to try!
 
 ![Day15](/assets/images/blog/map_challenge_2023/Day15_OpenStreetMap.png)
+![Day15_bonus](/assets/images/blog/map_challenge_2023/Day15_OpenStreetMap_bonus.jpg)
 
-Data Source: [OpenStreetMap](https://www.openstreetmap.org/) via [overpass-turbo](https://overpass-turbo.eu/)
+Data Source: Boat rentals from [OpenStreetMap](https://www.openstreetmap.org/) via [overpass-turbo](https://overpass-turbo.eu/). Kayak tracks from [Strava](https://www.strava.com/).
 
 Tools: Python, geopandas
 
+
+### Day 16: Oceania
+
+### Day 17: Flow
+
+### Day 18: Atmosphere
+
+### Day 19: 5-minute map
+
+### Day 20: Outdoors
+
+### Day 21: Raster
+
+### Day 22: North is not always up
+
+### Day 23: 3D
+
+### Day 24: Black & white
+
+### Day 25: Antarctica
+
+### Day 26: Minimal
+
+### Day 27: Dot
+
+### Day 28: Is this a chart or a map?
+
+Trees in a grid, colored by height.
+
+![Day28](/assets/images/blog/map_challenge_2023/Day28_ChartMap.png)
+
+Data Source: Boat rentals from [OpenStreetMap](https://www.openstreetmap.org/) via [overpass-turbo](https://overpass-turbo.eu/). Kayak tracks from [Strava](https://www.strava.com/).
+
+Tools: Python, geopandas
+
+### Day 29: Population
+
+### Day 30: "My favorite.."
 
 
