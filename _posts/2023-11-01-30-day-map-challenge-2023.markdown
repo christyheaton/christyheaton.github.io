@@ -143,7 +143,7 @@ Tools: Python, geopandas, PyScript
 
 ### Day 13: Choropleth
 
-Number of Non-public Trees in the Neighborhoods of Seattle
+Number of Non-public Trees, Aggregated by Neighborhood, in Seattle.
 
 [![Day13](/assets/images/blog/map_challenge_2023/Day13_Choropleth.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day13/latest/)
 
@@ -156,9 +156,20 @@ Tools: Python, geopandas, PyScript
 
 Railways in Spain and Portugal, rainbow colored for no reason.
 
-![Day14](/assets/images/blog/map_challenge_2023/Day14_Europe.png)
+[![Day14](/assets/images/blog/map_challenge_2023/Day14_Europe.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day14/latest/)
 
-Data sources: Railways from (Natural Earth)[https://www.naturalearthdata.com/downloads/10m-cultural-vectors/]
+Data sources: Railways from [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
+
+Tools: Python, geopandas, PyScript
+
+
+### Day 15: OpenStreetMap
+
+Boat rentals and my Strava Kayaking Tracks. Still a few spots I need to try!
+
+![Day15](/assets/images/blog/map_challenge_2023/Day15_OpenStreetMap.png)
+
+Data Source: [OpenStreetMap](https://www.openstreetmap.org/) via [overpass-turbo](https://overpass-turbo.eu/)
 
 Tools: Python, geopandas
 
