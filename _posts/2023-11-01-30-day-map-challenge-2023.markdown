@@ -143,7 +143,7 @@ Tools: Python, geopandas, PyScript
 
 ### Day 13: Choropleth
 
-Publicly-manged vs. privately managed trees in Seattle.
+Privately-managed vs. publicly-managed trees in Seattle.
 
 ![Day13](/assets/images/blog/map_challenge_2023/Day13_Choropleth.png)
 
