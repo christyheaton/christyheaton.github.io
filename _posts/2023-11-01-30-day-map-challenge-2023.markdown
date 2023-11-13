@@ -138,6 +138,28 @@ Volcanoes of Ecuador
 
 Data sources: [Princeton](https://maps.princeton.edu/catalog/harvard-glb-volc)
 
+Tools: Python, geopandas, PyScript
+
+
+### Day 13: Choropleth
+
+Number of Trees in the Neighborhoods of Seattle
+
+[![Day13](/assets/images/blog/map_challenge_2023/Day13_Choropleth.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day13/latest/)
+
+Data sources: Trees from [SDOT](https://data.seattle.gov/dataset/SDOT-Trees/5g8f-i97c), Neighborhoods from [City of Seattle](https://data-seattlecitygis.opendata.arcgis.com/search?collection=Dataset&q=neighborhoods))
+
+Tools: Python, geopandas, PyScript
+
+
+### Day 14: Europe
+
+Railways in Spain and Portugal, rainbow colored for no reason.
+
+![Day14](/assets/images/blog/map_challenge_2023/Day14_Europe.png)
+
+Data sources: Railways from (Natural Earth)[https://www.naturalearthdata.com/downloads/10m-cultural-vectors/]
+
 Tools: Python, geopandas
 
 
