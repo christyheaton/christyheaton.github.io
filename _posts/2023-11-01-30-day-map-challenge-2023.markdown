@@ -143,7 +143,7 @@ Tools: Python, geopandas, PyScript
 
 ### Day 13: Choropleth
 
-Number of Non-public Trees, Aggregated by Neighborhood, in Seattle.
+Publicly-manged vs. privately managed trees in Seattle.
 
 [![Day13](/assets/images/blog/map_challenge_2023/Day13_Choropleth.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day13/latest/)
 
