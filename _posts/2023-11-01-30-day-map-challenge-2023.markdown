@@ -145,11 +145,11 @@ Tools: Python, geopandas, PyScript
 
 Publicly-manged vs. privately managed trees in Seattle.
 
-[![Day13](/assets/images/blog/map_challenge_2023/Day13_Choropleth.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day13/latest/)
+![Day13](/assets/images/blog/map_challenge_2023/Day13_Choropleth.png)
 
 Data sources: Trees from [SDOT](https://data.seattle.gov/dataset/SDOT-Trees/5g8f-i97c), Neighborhoods from [City of Seattle](https://data-seattlecitygis.opendata.arcgis.com/search?collection=Dataset&q=neighborhoods))
 
-Tools: Python, geopandas, PyScript
+Tools: Python, geopandas
 
 
 ### Day 14: Europe
