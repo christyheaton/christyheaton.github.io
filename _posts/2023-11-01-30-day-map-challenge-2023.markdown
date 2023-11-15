@@ -168,7 +168,6 @@ Tools: Python, geopandas, PyScript
 Boat rentals and my Strava kayaking tracks. Still a spot I need to try!
 
 ![Day15](/assets/images/blog/map_challenge_2023/Day15_OpenStreetMap.png)
-![Day15_bonus](/assets/images/blog/map_challenge_2023/Day15_OpenStreetMap_bonus.jpg)
 
 Data Source: Boat rentals from [OpenStreetMap](https://www.openstreetmap.org/) via [overpass-turbo](https://overpass-turbo.eu/). Kayak tracks from [Strava](https://www.strava.com/).
 
