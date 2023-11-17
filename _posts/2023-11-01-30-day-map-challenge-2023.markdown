@@ -187,6 +187,9 @@ Rufous hummingbirds on their way North up the West coast of the USA. Showing sig
 
 ![Day17](/assets/images/blog/map_challenge_2023/Day17_Flow.mp4)
 
+<video src="/assets/images/blog/map_challenge_2023/Day17_Flow.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 Data source: [Project FeederWatch, TheCornellLab](https://feederwatch.org/explore/raw-dataset-requests/)
 
 Tools: Python, geopandas
