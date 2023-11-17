@@ -183,6 +183,15 @@ A hand-drawn map of my trip to New Zealand.
 
 ### Day 17: Flow
 
+Rufous hummingbirds on their way North up the West coast of the USA. Showing sightings on every Saturday from January-April, 2023.
+
+![Day17](/assets/images/blog/map_challenge_2023/Day17_Flow.mp4)
+
+Data source: [Project FeederWatch, TheCornellLab](https://feederwatch.org/explore/raw-dataset-requests/)
+
+Tools: Python, geopandas
+
+
 ### Day 18: Atmosphere
 
 ### Day 19: 5-minute map
@@ -199,6 +208,11 @@ A hand-drawn map of my trip to New Zealand.
 
 ### Day 25: Antarctica
 
+Retro Antarctica?
+
+![Day25](/assets/images/blog/map_challenge_2023/Day25_Antarcica.png)
+
+
 ### Day 26: Minimal
 
 ### Day 27: Dot
@@ -212,6 +226,7 @@ Trees in a grid, colored by height.
 Data Source: [Advent of Code](https://adventofcode.com/2022/day/8)
 
 Tools: Python, geopandas
+
 
 ### Day 29: Population
 
