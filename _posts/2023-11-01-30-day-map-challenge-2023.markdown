@@ -185,8 +185,6 @@ A hand-drawn map of my trip to New Zealand.
 
 Rufous hummingbirds on their way North up the West coast of the USA. Showing sightings on every Saturday from January-April, 2023.
 
-![Day17](/assets/images/blog/map_challenge_2023/Day17_Flow.mp4)
-
 <video src="/assets/images/blog/map_challenge_2023/Day17_Flow.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
