@@ -195,6 +195,15 @@ Tools: Python, geopandas
 
 ### Day 18: Atmosphere
 
+Seattle summers have been smoky in recent years. This year was bad in July and August. 
+
+![Day18](/assets/images/blog/map_challenge_2023/Day18_Atmosphere.png)
+
+Data souce: [EPA](https://www.epa.gov/outdoor-air-quality-data/download-daily-data)
+
+Tools: Python, geopandas, matplotlib
+
+
 ### Day 19: 5-minute map
 
 ### Day 20: Outdoors
