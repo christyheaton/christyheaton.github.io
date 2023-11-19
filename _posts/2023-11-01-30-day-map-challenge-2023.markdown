@@ -206,7 +206,17 @@ Tools: Python, geopandas, matplotlib
 
 ### Day 19: 5-minute map
 
+Null Island, featuring Empty Peak, Mount Nothing, Invalid Valley, and Zero River. I set a timer so I can safely say I spent 5 minutes on this. 😄
+
+![Day19](/assets/images/blog/map_challenge_2023/Day19_5MinuteMap.jpg)
+
+
 ### Day 20: Outdoors
+
+Trailheads in Washington that are within 1 mile of a transit stop.
+
+[![Day20](/assets/images/blog/map_challenge_2023/Day20_Outdoors.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day20/latest/)
+
 
 ### Day 21: Raster
 
@@ -218,7 +228,7 @@ Tools: Python, geopandas, matplotlib
 
 ### Day 25: Antarctica
 
-Retro Antarctica?
+Retro-future Antarctica?
 
 ![Day25](/assets/images/blog/map_challenge_2023/Day25_Antarcica.png)
 
