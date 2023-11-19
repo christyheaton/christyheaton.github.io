@@ -217,6 +217,10 @@ Trailheads in Washington that are within 1 mile of a transit stop.
 
 [![Day20](/assets/images/blog/map_challenge_2023/Day20_Outdoors.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day20/latest/)
 
+Data sources: Hikes: [Princeton](https://www.wta.org/), Transit: [WSDOT](https://geo.wa.gov/datasets/9b920f5ac2e04dff980d5463bd88bed5/about)
+
+Tools: Python, geopandas, PyScript
+
 
 ### Day 21: Raster
 
