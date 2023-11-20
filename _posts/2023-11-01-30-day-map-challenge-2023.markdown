@@ -217,12 +217,21 @@ Trailheads in Washington that are within 1 mile of a transit stop.
 
 [![Day20](/assets/images/blog/map_challenge_2023/Day20_Outdoors.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day20/latest/)
 
-Data sources: Hikes: [Princeton](https://www.wta.org/), Transit: [WSDOT](https://geo.wa.gov/datasets/9b920f5ac2e04dff980d5463bd88bed5/about)
+Data sources: Hikes: [Washington Trails Association](https://www.wta.org/), Transit: [WSDOT](https://geo.wa.gov/datasets/9b920f5ac2e04dff980d5463bd88bed5/about)
 
 Tools: Python, geopandas, PyScript
 
 
 ### Day 21: Raster
+
+Top rated hikes in Rainer National Park with a randomly colored elevation raster background.
+
+![Day21](/assets/images/blog/map_challenge_2023/Day21_Raster.png)
+
+Data sources: Hikes: [Washington Trails Association](https://www.wta.org/), National Park Boundary: [NPS](https://public-nps.opendata.arcgis.com/datasets/nps::nps-boundary-4/explore?location=45.992602%2C-118.155871%2C6.07), Elevation: [Natural Earth](https://www.naturalearthdata.com/downloads/10m-raster-data/10m-manual-shaded-relief/)
+
+Tools: QGIS
+
 
 ### Day 22: North is not always up
 
