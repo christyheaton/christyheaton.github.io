@@ -235,6 +235,15 @@ Tools: QGIS
 
 ### Day 22: North is not always up
 
+World timezones starting at the North Pole. North is in the center.
+
+![Day22](/assets/images/blog/map_challenge_2023/Day22_NorthisNotAlwaysUp.png)
+
+Data sources: [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
+
+Tools: QGIS
+
+
 ### Day 23: 3D
 
 ### Day 24: Black & white
@@ -244,6 +253,10 @@ Tools: QGIS
 Retro-future Antarctica?
 
 ![Day25](/assets/images/blog/map_challenge_2023/Day25_Antarcica.png)
+
+Data sources: [Esri](https://hub.arcgis.com/datasets/esri::world-countries-generalized/explore)
+
+Tools: QGIS
 
 
 ### Day 26: Minimal
