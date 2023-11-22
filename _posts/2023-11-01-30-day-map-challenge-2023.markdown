@@ -224,7 +224,7 @@ Tools: Python, geopandas, PyScript
 
 ### Day 21: Raster
 
-Top rated hikes in Rainer National Park with a randomly colored elevation raster background.
+Top rated hikes in Mount Rainer National Park with a randomly colored elevation raster background.
 
 ![Day21](/assets/images/blog/map_challenge_2023/Day21_Raster.png)
 
@@ -247,6 +247,15 @@ Tools: QGIS
 ### Day 23: 3D
 
 ### Day 24: Black & white
+
+More trees! Black cottonwoods and Oregon White Oaks in Seattle.
+
+![Day25](/assets/images/blog/map_challenge_2023/Day24_BlackAndWhite.png)
+
+Data sources:  Trees from [SDOT](https://data.seattle.gov/dataset/SDOT-Trees/5g8f-i97c), neighborhoods from [City of Seattle](https://data-seattlecitygis.opendata.arcgis.com/search?collection=Dataset&q=neighborhoods)
+
+Tools: QGIS
+
 
 ### Day 25: Antarctica
 
