@@ -246,11 +246,20 @@ Tools: QGIS
 
 ### Day 23: 3D
 
+Not all trees in this dataset have heights, but these ones do. Actual tree heights multiplied by 30, colored by ownership.
+
+![Day23](/assets/images/blog/map_challenge_2023/Day23_3D.png)
+
+Data sources: Trees from [SDOT](https://data.seattle.gov/dataset/SDOT-Trees/5g8f-i97c)
+
+Tools: QGIS
+
+
 ### Day 24: Black & white
 
 More trees! Black cottonwoods and Oregon White Oaks in Seattle.
 
-![Day25](/assets/images/blog/map_challenge_2023/Day24_BlackAndWhite.png)
+![Day24](/assets/images/blog/map_challenge_2023/Day24_BlackAndWhite.png)
 
 Data sources:  Trees from [SDOT](https://data.seattle.gov/dataset/SDOT-Trees/5g8f-i97c), neighborhoods from [City of Seattle](https://data-seattlecitygis.opendata.arcgis.com/search?collection=Dataset&q=neighborhoods)
 
