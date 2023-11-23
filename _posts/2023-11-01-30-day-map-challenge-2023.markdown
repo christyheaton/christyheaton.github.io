@@ -257,7 +257,7 @@ Tools: QGIS
 
 ### Day 24: Black & white
 
-More trees! Black cottonwoods and Oregon White Oaks in Seattle.
+More trees! Black Cottonwoods and Oregon White Oaks in Seattle.
 
 ![Day24](/assets/images/blog/map_challenge_2023/Day24_BlackAndWhite.png)
 
