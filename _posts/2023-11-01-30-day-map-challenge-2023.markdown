@@ -283,7 +283,7 @@ Transit lines in the Seattle area.
 
 ![Day26](/assets/images/blog/map_challenge_2023/Day26_Minimalist.png)
 
-Data source: WSDOT [transit lines](https://geo.wa.gov/datasets/9b920f5ac2e04dff980d5463bd88bed5/about), [Ferries](https://gisdata-wsdot.opendata.arcgis.com/datasets/WSDOT::wsdot-ferry-routes/about)
+Data source: WSDOT [transit lines](https://geo.wa.gov/datasets/9b920f5ac2e04dff980d5463bd88bed5/about), [ferries](https://gisdata-wsdot.opendata.arcgis.com/datasets/WSDOT::wsdot-ferry-routes/about)
 
 Tools: QGIS
 
