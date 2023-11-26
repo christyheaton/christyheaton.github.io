@@ -268,7 +268,7 @@ Tools: QGIS
 
 ### Day 25: Antarctica
 
-Retro-future Antarctica?
+A map of Antarctica inspired by my Retro map's theme.
 
 ![Day25](/assets/images/blog/map_challenge_2023/Day25_Antarcica.png)
 
@@ -289,6 +289,15 @@ Tools: QGIS
 
 
 ### Day 27: Dot
+
+Top 3 native tree species in Seattle.
+
+[![Day27](/assets/images/blog/map_challenge_2023/Day27_Dot.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day27/latest/)
+
+Data Source: Trees from [SDOT](https://data.seattle.gov/dataset/SDOT-Trees/5g8f-i97c)
+
+Tools: Python, geopandas, PyScript
+
 
 ### Day 28: Is this a chart or a map?
 
