@@ -290,7 +290,7 @@ Tools: QGIS
 
 ### Day 27: Dot
 
-Top 3 native tree species in Seattle.
+The three most common native trees in Seattle, according to SDOT's tree database: Bigleaf Maple, Douglas Fir, and Western Red Cedar.
 
 [![Day27](/assets/images/blog/map_challenge_2023/Day27_Dot.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day27/latest/)
 
