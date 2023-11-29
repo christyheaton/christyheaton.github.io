@@ -314,7 +314,7 @@ Tools: Python, geopandas
 
 Urban areas in the Northern and Southern hemispheres.
 
-![Day28](/assets/images/blog/map_challenge_2023/Day28_Population.png)
+![Day28](/assets/images/blog/map_challenge_2023/Day29_Population.png)
 
 Data sources: [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors
 
