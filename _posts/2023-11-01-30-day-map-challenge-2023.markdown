@@ -5,7 +5,7 @@ categories:
  - blog
 ---
 
-I'm participating in the [#30DayMapChallenge](https://30daymapchallenge.com/) this year. Many of the maps are interactive! If you can click on the image it will redirect you to the interactive version. Note that if the map was made with PyScript, the page could take ~30 seconds to load.
+I participated in the [#30DayMapChallenge](https://30daymapchallenge.com/) in 2023. Many of the maps are interactive! If you can click on the image it will redirect you to the interactive version. Note that if the map was made with PyScript, the page could take ~30 seconds to load.
 
 ### Day 1: Points
 
@@ -99,7 +99,6 @@ Tools: Python, geopandas
 Number of American Crow sightings in Connecticut between 2021-today (November, 2023).
 
 [![Day9](/assets/images/blog/map_challenge_2023/Day09_Hexagons.png)](https://cheaton.pyscriptapps.com/30daymapchallenge-day9/latest/)
-
 
 Method: [This blog](https://python.plainenglish.io/creating-beautiful-hexagon-maps-with-python-25c9291eeeda)
 
@@ -323,7 +322,7 @@ Tools: QGIS
 
 ### Day 30: "My favorite.."
 
-Taking it full circle showing cities with "cat" in the name using a Bonne projection with a retro-future theme.
+Taking it full circle showing cities with "cat" in the name using a Bonne projection with a retro-future theme. Its heart-shaped representing my love for maps and cats!
 
 ![Day30](/assets/images/blog/map_challenge_2023/Day30_MyFavorite.png)
 
