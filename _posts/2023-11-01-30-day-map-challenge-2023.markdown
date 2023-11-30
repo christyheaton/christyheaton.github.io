@@ -314,7 +314,7 @@ Tools: Python, geopandas
 
 Urban areas in the Northern and Southern hemispheres.
 
-![Day28](/assets/images/blog/map_challenge_2023/Day29_Population.png)
+![Day29](/assets/images/blog/map_challenge_2023/Day29_Population.png)
 
 Data sources: [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors
 
@@ -323,4 +323,11 @@ Tools: QGIS
 
 ### Day 30: "My favorite.."
 
+Taking it full circle showing cities with "cat" in the name using a Bonne projection with a retro-future theme.
+
+![Day30](/assets/images/blog/map_challenge_2023/Day30_MyFavorite.png)
+
+Data sources: [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors
+
+Tools: QGIS
 
