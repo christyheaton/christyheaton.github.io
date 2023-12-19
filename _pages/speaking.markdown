@@ -17,7 +17,7 @@ PyScript allows you to run Python code in a browser, like JavaScript does. It al
   </td>
   <td style="width:30%;border:none;font-size:16px;">
 	<a href="https://www.youtube.com/watch?v=eF2EQFaPEJg">
-		<img src= "{{ "assets/images/speaking/WDS_PS.PNG" | relative_url }}"/>
+		<img src= "{{ "assets/images/speaking/PyOhio2023.PNG" | relative_url }}"/>
 	</a>
   </td>
 </tr>
