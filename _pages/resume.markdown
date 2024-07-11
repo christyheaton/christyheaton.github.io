@@ -580,57 +580,51 @@ permalink: /resume/
 		<li>Knowledge Sharing, Community Organizing, Teaching</li>
       </ul>
       <h2 id="languages">Languages</h2>
-      <h3>Current</h3>
       <ul>
 		<li>Python</li>
 		<li>SQL</li>
-      </ul>
-      <h3>Past</h3>
-      <ul>
-		<li>R</li>
-		<li>HTML/CSS</li>
+		<li>Terraform</li>
       </ul>
       <h2 id="skills">Skills</h2>
-      <h3>Current</h3>
       <ul>
-		<li>Git/GitHub</li>
 		<li>QGIS</li>
+		<li>Esri Software Suite</li>
 		<li>AWS</li>
+		<li>Git/GitHub</li>
 		<li>Databases</li>	
-      </ul>
-      <h3>Past</h3>
-      <ul>
-	    <li>Esri Software Suite</li>
 		<li>Cartography</li>
       </ul>
 	  <h2 id="volunteer">Volunteering</h2>
       <h3>Current</h3>
       <ul>
-	  	<li><a href="https://treemama.org/the-tech-treehouse/iseatree/">iSeaTree</a></li>
-		<li><a href="https://seattle.pyladies.com/">PyLadies Seattle</a></li>
-		<li><a href="https://maptimesea.github.io/">Maptime Seattle</a></li>
+	  	<li><a href="https://cugos.org/">CUGOS (Vice President)</a></li>
+		<li><a href="https://seattle.pyladies.com/">PyLadies Seattle (Co-organizer)</a></li>
+		<li><a href="https://maptimesea.github.io/">Maptime Seattle (Co-organizer)</a></li>
       </ul>
       <h3>Past</h3>
       <ul>
+	    <li><a href="https://treemama.org/the-tech-treehouse/iseatree/">iSeaTree</a></li>
 		<li><a href="https://casa-latina.org/">CASA Latina</a></li>
       </ul>
 	  <h2 id="other">Other Skills</h2>
       <ul>
 	  	<li>Public Speaking</li>
-		<li>Writing</li>
+		<li>Writing (Blogs/public-facing/technical documentation)</li>
 		<li>Spanish Language (Level B2)</li>
       </ul>
     </aside>
     <section class="resumeTimeline">
       <h2 id="employment">Employment</h2>
       <div class="timelineHeader">
-        <h3 class="employmentTitle">Geospatial Developer</h3>
+        <h3 class="employmentTitle">Geospatial Software Developer</h3>
         <div class="employer"><a href="https://woven.toyota/en/">Woven by Toyota</a></div>
         <div class="employmentDates">September 2022 - Present</div>
       </div>
 		<ul>
-			<li>Design, build, and maintain customer deliverables using Python</li>
-		</ul>      
+			<li>Build tools with Python such as automation scripts, Streamlit dashboards, deployments, and AWS pipelines</li>
+			<li>Lead technical projects, present demos to wide audiences, mentor colleagues</li>
+			<li>Organize work and outreach through Jira ticketing and technical documentation</li>
+		</ul>    
 	<div class="timelineHeader">
         <h3 class="employmentTitle">GIS/Data Analyst</h3>
         <div class="employer"><a href="https://floydsnider.com/">Floyd|Snider</a></div>
