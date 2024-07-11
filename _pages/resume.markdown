@@ -633,6 +633,7 @@ permalink: /resume/
 		<ul>
 			<li>GIS, Python, and data visualization expert for the firm</li>
 			<li>Work with project managers to create maps and other complex data visualizations, typically depicting the extent of various chemical parameters</li>
+			<li>Presented at Women in Data Science Puget Sound on visualization techniques for environmental projects</li>
 		</ul>
       <div class="timelineHeader">
         <h3 class="employmentTitle">Faculty Lecturer</h3>
@@ -642,6 +643,7 @@ permalink: /resume/
 		<ul>
 			<li>Python Programming course for Masters of GIS program</li>
 			<li>Internet Programming in Python for UW Professional and Continuing Education</li>
+			<li>Presented at Washington URISA on teaching Python with a sustainability focus</li>
 		</ul>
       <div class="timelineHeader">
         <h3 class="employmentTitle">GIS Project Manager</h3>
@@ -662,6 +664,7 @@ permalink: /resume/
         <li>Geospatial data maintainer of the Utah State Geographic Information Database</li>	
         <li>Worked with local broadband providers to obtain coverage areas and technical information in order to submit it to the National Broadband Project, presented results at the Utah Geographic Information Council Conference, Produced a Map of the Month and blog post with new analysis and project updates</li>
         <li>Provided GIS mapping throughout the Utah 2012 redistricting process and met with Utah State house representatives and senators in order to approve changes to house, senate, and school board districts</li>
+		<li>Presented at the Utah Geographic Information Council (UGIC) Conference</li>
       </ul>
       <h2 id="education">Education</h2>
       <div class="timelineHeader">
@@ -678,6 +681,10 @@ permalink: /resume/
       </div>
 	  
       <h2 id="special">Special Appointments</h2>
+	  <div class="timelineHeader">
+        <h3 class="employmentTitle">PyLadies Panelist</h3>
+        <div class="employer">PyCascades, April 2024</div>
+      </div>
       <div class="timelineHeader">
         <h3 class="employmentTitle">Blogger</h3>
         <div class="employer">Python Software Foundation, 2016 - 2019</div>
