@@ -573,7 +573,8 @@ permalink: /resume/
     <aside class="resumeList">
       <h2 id="interests">Interests</h2>
       <ul>
-	    <li>Geospatial Software Development</li>
+	    <li>Geographic Information Systems</li>
+		<li>Software Development</li>
         <li>Data Visualization</li>
         <li>Open Source Software</li>
 		<li>Workflow Automation</li>
