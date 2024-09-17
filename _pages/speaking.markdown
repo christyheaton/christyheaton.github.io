@@ -11,6 +11,36 @@ entries_layout: grid
 
 <tr style="border:none;">
   <td style="border: none;font-size:16px;">
+    <span style="font-weight:700;">PyCascades 2024: PyLadies Panel Discussion</span>
+    <br>
+In this panel discussion, we discuss our experiences as women in the tech community.
+  </td>
+  <td style="width:30%;border:none;font-size:16px;">
+	<a href="https://youtu.be/whXlOKFk4Js?si=gD6GuWfLxPdnovEZ">
+		<img src= "{{ "assets/images/speaking/PyCascades_2024_Panel.PNG" | relative_url }}"/>
+	</a>
+  </td>
+</tr>
+
+<table style="width:100%; border:none;" cellspacing="10" >
+
+<tr style="border:none;">
+  <td style="border: none;font-size:16px;">
+    <span style="font-weight:700;">PyCascades 2024: Mapping Tomorrow's Eclipse Path with GeoPandas and PyScript</span>
+    <br>
+This lightning talk covers how we can  map the April 2024 eclipse path with GeoPandas and PyScript.
+  </td>
+  <td style="width:30%;border:none;font-size:16px;">
+	<a href="https://youtu.be/mtfu_D3pAlo?si=WNxJ9I2NnU9q7548">
+		<img src= "{{ "assets/images/speaking/PyCascades_2024_Lightning.PNG" | relative_url }}"/>
+	</a>
+  </td>
+</tr>
+
+<table style="width:100%; border:none;" cellspacing="10" >
+
+<tr style="border:none;">
+  <td style="border: none;font-size:16px;">
     <span style="font-weight:700;">PyOhio 2023: Build a Web Map with PyScript!</span>
     <br>
 PyScript allows you to run Python code in a browser, like JavaScript does. It also lets you import geospatial mapping libraries like Folium and GeoPandas, all without actually installing anything! In this talk, we'll discuss the benefits and ease of using PyScript for this task, then we'll go through a basic geospatial analysis and display the results in a web map. In the end we'll have an app that can be easily shared, containing Python code that anyone can view and run.
