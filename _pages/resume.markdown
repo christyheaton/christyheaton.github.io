@@ -598,7 +598,7 @@ permalink: /resume/
 	  <h2 id="volunteer">Volunteering</h2>
       <h3>Current</h3>
       <ul>
-	  	<li><a href="https://cugos.org/">CUGOS (Vice President)</a></li>
+	  	<li><a href="https://cugos.org/">CUGOS (President)</a></li>
 		<li><a href="https://seattle.pyladies.com/">PyLadies Seattle (Co-organizer)</a></li>
 		<li><a href="https://maptimesea.github.io/">Maptime Seattle (Co-organizer)</a></li>
       </ul>
