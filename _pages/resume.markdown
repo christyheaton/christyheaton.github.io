@@ -571,29 +571,14 @@ permalink: /resume/
   </div>
   <div class="resumeContainer">
     <aside class="resumeList">
-      <h2 id="interests">Interests</h2>
-      <ul>
-	    <li>Geographic Information Systems</li>
-		<li>Software Development</li>
-        <li>Data Visualization</li>
-        <li>Open Source Software</li>
-		<li>Workflow Automation</li>
-		<li>Knowledge Sharing, Community Organizing, Teaching</li>
-      </ul>
-      <h2 id="languages">Languages</h2>
-      <ul>
-		<li>Python</li>
-		<li>SQL</li>
-		<li>Terraform</li>
-      </ul>
+      <h2 id="interests">Summary</h2>
+      <p>Software engineer and technical communicator with 10+ years delivering software projects, clean data, and beautiful visualizations. Strong at breaking work into small steps, aligning teams, managing timelines, and leading projects to completion.</p>
       <h2 id="skills">Skills</h2>
       <ul>
-		<li>QGIS</li>
-		<li>Esri Software Suite</li>
-		<li>AWS</li>
-		<li>Git/GitHub</li>
-		<li>Databases</li>	
-		<li>Cartography</li>
+		<li>Project coordination · Agile · Kanban</li>
+		<li>Requirements gathering · Documentation</li>
+		<li>Python · AWS · Data pipelines · Geospatial tools</li>
+		<li>Communication · Public Speaking · Cross-team leadership</li>
       </ul>
 	  <h2 id="volunteer">Volunteering</h2>
       <h3>Current</h3>
@@ -617,34 +602,34 @@ permalink: /resume/
     <section class="resumeTimeline">
       <h2 id="employment">Employment</h2>
       <div class="timelineHeader">
-        <h3 class="employmentTitle">Geospatial Software Developer</h3>
+        <h3 class="employmentTitle">Software Engineer</h3>
         <div class="employer"><a href="https://woven.toyota/en/">Woven by Toyota</a></div>
-        <div class="employmentDates">September 2022 - Present</div>
+        <div class="employmentDates">June 2025 - Present</div>
       </div>
 		<ul>
-			<li>Build tools with Python such as automation scripts, Streamlit dashboards, deployments, and AWS pipelines</li>
-			<li>Lead technical projects, present demos to wide audiences, mentor colleagues</li>
-			<li>Organize work and outreach through Jira ticketing and technical documentation</li>
-		</ul>    
-	<div class="timelineHeader">
+			<li>Build internal Python tools and backend services supporting data workflows.</li>
+			<li>Coordinate cross-team planning, demos, and communication.</li>
+			<li>Support infrastructure, automation, and AWS deployments.</li>
+		</ul>
+      <div class="timelineHeader">
+        <h3 class="employmentTitle">Geospatial Developer</h3>
+        <div class="employer"><a href="https://woven.toyota/en/">Woven by Toyota</a></div>
+        <div class="employmentDates">September 2022 - June 2025</div>
+      </div>
+		<ul>
+			<li>Developed geospatial analytics tools, pipelines, and visualizations.</li>
+			<li>Built internal tools for AD/ADAS workflows and data quality.</li>
+			<li>Collaborated with engineers and analysts to streamline processes.</li>
+		</ul>
+      <div class="timelineHeader">
         <h3 class="employmentTitle">GIS/Data Analyst</h3>
         <div class="employer"><a href="https://floydsnider.com/">Floyd|Snider</a></div>
         <div class="employmentDates">February 2018 - September 2022</div>
       </div>
 		<ul>
-			<li>GIS, Python, and data visualization expert for the firm</li>
-			<li>Work with project managers to create maps and other complex data visualizations, typically depicting the extent of various chemical parameters</li>
-			<li>Presented at Women in Data Science Puget Sound on visualization techniques for environmental projects</li>
-		</ul>
-      <div class="timelineHeader">
-        <h3 class="employmentTitle">Faculty Lecturer</h3>
-        <div class="employer"><a href="https://www.washington.edu/">University of Washington</a></div>
-        <div class="employmentDates">June 2015 - May 2018</div>
-      </div>
-		<ul>
-			<li>Python Programming course for Masters of GIS program</li>
-			<li>Internet Programming in Python for UW Professional and Continuing Education</li>
-			<li>Presented at Washington URISA on teaching Python with a sustainability focus</li>
+			<li>Produced maps, spatial analyses, and data visualizations.</li>
+			<li>Built Python automation tools using Pandas, GeoPandas, and ArcGIS.</li>
+			<li>Supported project managers with data processing and reporting.</li>
 		</ul>
       <div class="timelineHeader">
         <h3 class="employmentTitle">GIS Project Manager</h3>
@@ -652,36 +637,42 @@ permalink: /resume/
         <div class="employmentDates">July 2014 - February 2018</div>
       </div>
       <ul>
-        <li>Performed project management and DevOps support through project life cycles, customer communications, demos, and deployments</li>
-		<li>Wrote Python scripts to automate data processing, deployments, and server health checks</li>
-		<li>Provided GIS analysis and technical support for MapInfo and Pitney Bowes server-side mapping software</li>
+        <li>Led GIS projects from design to deployment.</li>
+		<li>Built mapping applications and automated workflows.</li>
+		<li>Managed databases and coordinated clients and engineering teams.</li>
       </ul>
       <div class="timelineHeader">
-        <h3 class="employmentTitle">GIS Analyst</h3>
-        <div class="employer"><a href="https://gis.utah.gov/">Utah Automated Reference Center</a></div>
-        <div class="employmentDates">November 2009 - August 2012</div>
+        <h3 class="employmentTitle">Faculty Lecturer & Curriculum Developer</h3>
+        <div class="employer"><a href="https://www.washington.edu/">University of Washington</a></div>
+        <div class="employmentDates">May 2015 - May 2017</div>
+      </div>
+		<ul>
+			<li>Taught Python programming, GIS programming, and web mapping.</li>
+			<li>Created curricula, lectures, and project-based coursework.</li>
+		</ul>
+      <div class="timelineHeader">
+        <h3 class="employmentTitle">Additional Roles (Earlier Career)</h3>
+        <div class="employer">UW, Universitat Jaume I, and Utah AGRC</div>
       </div>
       <ul>
-        <li>Geospatial data maintainer of the Utah State Geographic Information Database</li>	
-        <li>Worked with local broadband providers to obtain coverage areas and technical information in order to submit it to the National Broadband Project, presented results at the Utah Geographic Information Council Conference, Produced a Map of the Month and blog post with new analysis and project updates</li>
-        <li>Provided GIS mapping throughout the Utah 2012 redistricting process and met with Utah State house representatives and senators in order to approve changes to house, senate, and school board districts</li>
-		<li>Presented at the Utah Geographic Information Council (UGIC) Conference</li>
+        <li>GIS roles at UW, Universitat Jaume I, and Utah AGRC. Work included analysis, automation, teaching, data maintenance, web development, and cartography.</li>
       </ul>
       <h2 id="education">Education</h2>
       <div class="timelineHeader">
-        <h3 class="employmentTitle">Masters of Geographic Information Systems</h3>
-        <div class="employer">University of Washington, 2014</div>
+        <h3 class="employmentTitle">M.S. Geographic Information Systems</h3>
+        <div class="employer">University of Washington</div>
       </div>
       <div class="timelineHeader">
-        <h3 class="employmentTitle">Geographic Information Systems Certification</h3>
-        <div class="employer">University of Utah, 2009</div>
+        <h3 class="employmentTitle">B.A. Anthropology & Spanish</h3>
+        <div class="employer">University of South Dakota</div>
       </div>
-      <div class="timelineHeader">
-        <h3 class="employmentTitle">B.A. Anthropology and Spanish Language and Cultural Studies (1-Year Study Abroad in Vigo, Spain)</h3>
-        <div class="employer">University of South Dakota, 2004</div>
-      </div>
-	  
-      <h2 id="special">Special Appointments</h2>
+    </section>
+  </div>
+</div>
+  </section>
+  <footer>
+  </footer>
+</body>
 	  <div class="timelineHeader">
         <h3 class="employmentTitle">PyLadies Panelist</h3>
         <div class="employer">PyCascades, April 2024</div>
