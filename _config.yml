@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Christy Heaton - Geospatial Developer
+title: Christy Heaton - Software Engineer
 email: christyheaton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my website. 
+  Software engineer and technical communicator focused on software development, clean data, and beautiful visualizations. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christyheaton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  christyheaton
@@ -32,6 +32,12 @@ locale: "en-US"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 #theme: minima
+
+# Custom styling
+sass:
+  sass_dir: _sass
+  style: compressed
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -42,9 +48,9 @@ include:
 # Site settings
 title: "Christy Heaton"
 title_separator: "|"
-subtite: "GIS Analyst"
+subtitle: "Software Engineer & Technical Communicator"
 email: christyheaton@gmail.com
-description: Christy Heaton, Geospatial Developer
+description: Christy Heaton, Software Engineer & Technical Communicator
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christyheaton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: christytoes
@@ -56,7 +62,7 @@ repository: "christyheaton/christyheaton.github.io"
 author:
   name             : "Christy Heaton"
   avatar           : "assets/images/Christy.jpg"
-  bio              : "Geospatial Developer"
+  bio              : "Software Engineer & Technical Communicator"
   location         : "Seattle, WA"
   email            : christyheaton@gmail.com
   uri              :
@@ -71,6 +77,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
+  mastodon         : "https://mas.to/@christyheaton"
   linkedin         : "christyheaton"
   pinterest        :
   soundcloud       :
@@ -87,6 +94,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mas.to/@christyheaton"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/christyheaton"

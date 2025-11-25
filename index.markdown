@@ -3,6 +3,6 @@ layout: single
 author_profile: true
 ---
 
-###### Hey, I'm Christy. 
+###### Christy Heaton
 
-I'm a Geospatial Developer and community organizer. I'm into Python programming, open source software, and teaching.
+Software engineer and technical communicator with 10+ years delivering software projects, clean data, and beautiful visualizations. Strong at breaking work into small steps, aligning teams, managing timelines, and leading projects to completion.

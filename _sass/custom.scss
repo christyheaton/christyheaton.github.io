@@ -1,0 +1,55 @@
+// Custom styling for professional appearance
+
+// Avatar - Make it square instead of circular
+.author__avatar {
+  border-radius: 0 !important; // Remove circular border
+  width: 200px !important;
+  height: 200px !important;
+  object-fit: cover;
+}
+
+// Improve author profile styling
+.author__content {
+  margin-left: 1.5em;
+}
+
+// Make the page titles more professional
+.page__title {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+// Improve spacing in author info
+.author__name {
+  font-size: 1.25em;
+  font-weight: 600;
+}
+
+// Better styling for social links in footer
+.page__footer-follow {
+  margin-top: 2em;
+}
+
+.social-icons {
+  a {
+    text-decoration: none;
+    color: #495057;
+    transition: color 0.2s ease-in-out;
+    
+    &:hover {
+      color: #212529;
+    }
+  }
+}
+
+// Improve header styling
+.site-title {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.site-subtitle {
+  color: #666;
+  font-size: 0.95em;
+  margin-top: 0.25em;
+}
