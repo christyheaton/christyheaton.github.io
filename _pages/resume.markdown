@@ -572,7 +572,7 @@ permalink: /resume/
   <div class="resumeContainer">
     <aside class="resumeList">
       <h2 id="interests">Summary</h2>
-      <p>Software engineer with 10+ years in geospatial systems, data analysis, and automation. Specialized in Python backend services, data pipelines, and technical leadership. Strong at breaking work into manageable steps, aligning cross-functional teams, and delivering projects from concept to production.</p>
+      <p>Software engineer with 10+ years in geospatial systems, data analysis, and automation. Specialized in Python backend services, data pipelines, and technical leadership. I break complex work into manageable steps, align cross-functional teams, and deliver projects from concept to production.</p>
       <h2 id="skills">Skills</h2>
       <ul>
 		<li>Python · AWS · Data pipelines · Geospatial tools</li>
