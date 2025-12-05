@@ -572,12 +572,12 @@ permalink: /resume/
   <div class="resumeContainer">
     <aside class="resumeList">
       <h2 id="interests">Summary</h2>
-      <p>Software engineer and technical communicator with 10+ years delivering software projects, clean data, and beautiful visualizations. Strong at breaking work into small steps, aligning teams, managing timelines, and leading projects to completion.</p>
+      <p>Software engineer with 10+ years in geospatial systems, data analysis, and automation. Specialized in Python backend services, data pipelines, and technical leadership. Strong at breaking work into manageable steps, aligning cross-functional teams, and delivering projects from concept to production.</p>
       <h2 id="skills">Skills</h2>
       <ul>
+		<li>Python · AWS · Data pipelines · Geospatial tools</li>
 		<li>Project coordination · Agile · Kanban</li>
 		<li>Requirements gathering · Documentation</li>
-		<li>Python · AWS · Data pipelines · Geospatial tools</li>
 		<li>Communication · Public Speaking · Cross-team leadership</li>
       </ul>
 	  <h2 id="volunteer">Volunteering</h2>

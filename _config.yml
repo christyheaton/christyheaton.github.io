@@ -21,7 +21,7 @@
 title: Christy Heaton - Software Engineer
 email: christyheaton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software engineer and technical communicator focused on software development, clean data, and beautiful visualizations. 
+  Software engineer with 10+ years in geospatial systems, data analysis, and automation. Specialized in Python backend services and technical leadership. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christyheaton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  christyheaton
@@ -48,9 +48,9 @@ include:
 # Site settings
 title: "Christy Heaton"
 title_separator: "|"
-subtitle: "Software Engineer & Technical Communicator"
+subtitle: "Software Engineer"
 email: christyheaton@gmail.com
-description: Christy Heaton, Software Engineer & Technical Communicator
+description: Christy Heaton, Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christyheaton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: christytoes
@@ -62,7 +62,7 @@ repository: "christyheaton/christyheaton.github.io"
 author:
   name             : "Christy Heaton"
   avatar           : "assets/images/Christy.jpg"
-  bio              : "Software Engineer & Technical Communicator"
+  bio              : "Software Engineer"
   location         : "Seattle, WA"
   email            : christyheaton@gmail.com
   uri              :
