@@ -5,4 +5,4 @@ author_profile: true
 
 ###### Christy Heaton
 
-Software engineer and technical communicator with 10+ years delivering software projects, clean data, and beautiful visualizations. Strong at breaking work into small steps, aligning teams, managing timelines, and leading projects to completion.
+I'm a software engineer passionate about geospatial systems, community organizing, and sharing knowledge through public speaking. I serve as President of CUGOS (Cascadia Users of Geospatial Open Source), where I help build Seattle's open source GIS community. I love working with Python, building tools that matter, and connecting people around shared interests in mapping and open source.
