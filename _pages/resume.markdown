@@ -673,30 +673,3 @@ permalink: /resume/
   <footer>
   </footer>
 </body>
-	  <div class="timelineHeader">
-        <h3 class="employmentTitle">PyLadies Panelist</h3>
-        <div class="employer">PyCascades, April 2024</div>
-      </div>
-      <div class="timelineHeader">
-        <h3 class="employmentTitle">Blogger</h3>
-        <div class="employer">Python Software Foundation, 2016 - 2019</div>
-      </div>
-      <div class="timelineHeader">
-        <h3 class="employmentTitle">Visiting Lecturer</h3>
-        <div class="employer">Universitat Jaume I de Castellón, Castellón, Spain, 2014</div>
-      </div>
-      <div class="timelineHeader">
-        <h3 class="employmentTitle">Esri International User Conference Student Assistantship</h3>
-        <div class="employer">Esri, 2014</div>
-	  </div>
-      <div class="timelineHeader">
-        <h3 class="employmentTitle">Student Mentor Scholarship </h3>
-        <div class="employer">Geography Department, University of Washington, 2013 – 2014</div>
-      </div>	  	  
-    </section>
-  </div>
-</div>
-  </section>
-  <footer>
-  </footer>
-</body>
